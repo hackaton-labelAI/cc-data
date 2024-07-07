@@ -1,0 +1,14 @@
+Скопируйте проекты плагина и приложения-примера из официального репозитория RuStore на GitFlic.
+
+
+Скопируйте содержимое папки unreal_example / Plugins в папку Plugins внутри своего проекта. Перезапустите Unreal Engine.
+
+
+В списке плагинов (Edit → Plugins → Mobile) отметьте плагины «RuStorePush» и «RuStoreCore».
+
+
+В файле YourProject.Build.cs в списке PublicDependencyModuleNames подключите модули RuStoreCore и RuStorePush.
+
+
+В настройках проекта (Edit → Project Settings → Android) установите параметры:Minimum SDK Version — не ниже 24;
+Target SDK Version — не ниже 31.

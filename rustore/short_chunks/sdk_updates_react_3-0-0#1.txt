@@ -1,0 +1,5 @@
+После завершения скачивания APK-файла обновления вы можете запустить установку обновления. Для запуска установки обновления вызовите метод completeUpdate(type: number).Сущность AppUpdateType, откуда мы получаем тип обновления для установки. Допустимые типы обновлений для передачи в completeUpdate метод FLEXIBLE и SILENT.export enum AppUpdateType {  FLEXIBLE = 0,  IMMEDIATE = 1,  SILENT = 2,}try {  await RustoreUpdateClient.completeUpdate(AppUpdateType.FLEXIBLE);} catch (err) {  console.log(err);}Если передать тип обновлений FLEXIBLE, то приложение перезапустится. Пример флоу пользователя ниже:Parsed Image TextЕсли передать тип обновлений SILENT, то приложение закроется без перезапуска. Пример флоу пользователя ниже:
+Обновление без UI от RuStore:UI-диалог завершения обновления не будет показан.
+
+
+В случае успешного обновления приложение будет закрыто.

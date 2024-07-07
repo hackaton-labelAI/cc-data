@@ -1,0 +1,2 @@
+GET
+https://public-api.rustore.ru/public/v1/application/{packageName}/comment/export?from={date_from}&to={date_to}Parsed Table Text

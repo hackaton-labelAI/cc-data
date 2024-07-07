@@ -1,0 +1,162 @@
+Список зависимостей | Документация RuStore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Перейти к основному содержимому
+Документация пользователей
+Документация разработчиков
+RuStore SDK
+RuStore API
+Сценарии использования
+Русский
+Русский
+English
+Список доступных SDK
+Платежи in-app и подписки
+Список зависимостей
+Kotlin/Java
+Unity
+Godot
+React Native
+Flutter
+Unreal Engine
+Defold
+Push-уведомления
+Универсальные push-уведомления
+Подключение отзывов и оценок
+Обновление приложения
+Карты и геосервисы
+Install Referrer
+RuStore Deeplinks
+История изменений SDK
+Task API
+Совместимость с остальными SDK
+Платежи in-app и подписки
+Список зависимостей
+Список зависимостей
+
+
+
+
+javax.inject:javax.inject:1
+ — The Apache Software License, Version 2.0;
+
+
+androidx.annotation:annotation:1.3.0
+ — The Apache Software License, Version 2.0;
+
+
+androidx.biometric:1.1.0
+ — The Apache Software License, Version 2.0;
+
+
+androidx.constraintlayout:2.0.4
+ — The Apache Software License, Version 2.0;
+
+
+androidx.coordinatorlayout:coordinatorlayout:1.2.0
+ — The Apache Software License, Version 2.0;
+
+
+androidx.core:core-ktx:1.7.0
+ — The Apache Software License, Version 2.0;
+
+
+androidx.databinding:viewbinding:7.4.2
+ — The Apache Software License, Version 2.0;
+
+
+androidx.fragment:fragment-ktx:1.3.6
+ — The Apache Software License, Version 2.0;
+
+
+androidx.lifecycle:lifecycle-runtime-ktx:2.4.1
+ — The Apache Software License, Version 2.0;
+
+
+androidx.lifecycle:lifecycle-common-java8:2.4.1
+ — The Apache Software License, Version 2.0;
+
+
+androidx.recyclerview:recyclerview:1.2.1
+ — The Apache Software License, Version 2.0;
+
+
+com.google.android.material:material:1.1.0
+ — The Apache Software License, Version 2.0;
+
+
+com.google.dagger:dagger:2.42
+ — The Apache Software License, Version 2.0;
+
+
+org.jetbrains.kotlin:kotlin-stdlib:1.7.10
+ — The Apache Software License, Version 2.0;
+
+
+org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1
+ — The Apache Software License, Version 2.0;
+
+
+org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.2
+ — The Apache Software License, Version 2.0;
+
+
+com.github.bumptech.glide:4.15.1
+ — Simplified BSD License, The Apache Software License, Version 2.0;
+
+
+com.squareup.okhttp3:okhttp:4.9.3
+ — The Apache Software License, Version 2.0;
+
+
+com.facebook.shimmer:shimmer:0.5.0
+ — BSD 2-Clause License.
+
+
+Предыдущая страница
+Платежи in-app и подписки
+Следующая страница
+Kotlin/Java
+
+
+© VK, 2024
+
+
+
+
+Пользовательское соглашение
+
+
+Конфиденциальность

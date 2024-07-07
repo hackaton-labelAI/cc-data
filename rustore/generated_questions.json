@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Какой тип данных используется для свойства accessToken?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#styleimageinterface-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Какое свойство определяет начальный API URL для получения тайлов, стилей, спрайтов и глифов?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#styleimageinterface-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Что делает функция mmrgl.clearStorage() и какие параметры она принимает?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#styleimageinterface-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Какие параметры входят в группу CameraOptions и какое их назначение?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#styleimageinterface-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Для чего используется метод mmrgl.setRTLTextPlugin и какие параметры он принимает?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#styleimageinterface-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Какую основную функцию выполняет сервис Tracer?",
+    "article": "/developers_tools_app-tracer_.txt"
+  },
+  {
+    "question": "На каких платформах работает сервис Tracer?",
+    "article": "/developers_tools_app-tracer_.txt"
+  },
+  {
+    "question": "Какие задачи позволяет решать профилирование в продакшене с помощью Tracer?",
+    "article": "/developers_tools_app-tracer_.txt"
+  },
+  {
+    "question": "Как Tracer помогает в обнаружении утечек памяти на устройстве пользователя?",
+    "article": "/developers_tools_app-tracer_.txt"
+  },
+  {
+    "question": "Какую дополнительную безопасность обеспечивает Tracer в отношении файлов приложения на диске?",
+    "article": "/developers_tools_app-tracer_.txt"
+  },
+  {
+    "question": "Какую зависимость необходимо добавить в `build.gradle` для использования Sampling Profiler?",
+    "article": "/developers_tools_app-tracer_android_modules_sampling-profiler.txt"
+  },
+  {
+    "question": "Какие опции доступны для настройки в `SamplingProfilerConfiguration.Builder`?",
+    "article": "/developers_tools_app-tracer_android_modules_sampling-profiler.txt"
+  },
+  {
+    "question": "Какая вероятность запуска профайлера при старте приложения с использованием примера `Condition.appStart(10_000, 7_000)`?",
+    "article": "/developers_tools_app-tracer_android_modules_sampling-profiler.txt"
+  },
+  {
+    "question": "Какие параметры принимает метод `SamplingProfiler.start()`?",
+    "article": "/developers_tools_app-tracer_android_modules_sampling-profiler.txt"
+  },
+  {
+    "question": "Какие системные события можно использовать в классе `Condition` и ручном профилировании?",
+    "article": "/developers_tools_app-tracer_android_modules_sampling-profiler.txt"
+  },
+  {
+    "question": "Какой класс необходимо указать в файле манифеста для использования RuStore Remote Config?",
+    "article": "/developers_tools_remote-config_sdk_defold_1-1-1.txt"
+  },
+  {
+    "question": "Какие значения может принимать параметр UpdateBehaviour и чем они отличаются?",
+    "article": "/developers_tools_remote-config_sdk_defold_1-1-1.txt"
+  },
+  {
+    "question": "Как можно передать динамические параметры, такие как \"Account\" и \"Language\"?",
+    "article": "/developers_tools_remote-config_sdk_defold_1-1-1.txt"
+  },
+  {
+    "question": "Какие события можно использовать для получения обратных вызовов о работе SDK?",
+    "article": "/developers_tools_remote-config_sdk_defold_1-1-1.txt"
+  },
+  {
+    "question": "Какие виды ошибок могут возникнуть при использовании RuStore Remote Config и как они обрабатываются?",
+    "article": "/developers_tools_remote-config_sdk_defold_1-1-1.txt"
+  },
+  {
+    "question": "В каком разделе можно найти и управлять параметрами A/B экспериментов в Remote Config?",
+    "article": "/developers_tools_remote-config_ab-testing_experiments.txt"
+  },
+  {
+    "question": "Какие фильтры доступны для списка созданных экспериментов?",
+    "article": "/developers_tools_remote-config_ab-testing_experiments.txt"
+  },
+  {
+    "question": "Каким образом можно найти конкретный эксперимент в списке созданных?",
+    "article": "/developers_tools_remote-config_ab-testing_experiments.txt"
+  },
+  {
+    "question": "Какую информацию можно узнать о созданных экспериментах в Remote Config?",
+    "article": "/developers_tools_remote-config_ab-testing_experiments.txt"
+  },
+  {
+    "question": "Какие действия можно выполнять с экспериментами в разделе A/B эксперименты?",
+    "article": "/developers_tools_remote-config_ab-testing_experiments.txt"
+  },
+  {
+    "question": "Что такое RuStore и каковы его основные функции?",
+    "article": "/users_about-rustore.txt"
+  },
+  {
+    "question": "Сколько приложений доступно в RuStore и сколько человек ежемесячно используют этот магазин?",
+    "article": "/users_about-rustore.txt"
+  },
+  {
+    "question": "Кто разработал RuStore и при поддержке каких организаций он функционирует?",
+    "article": "/users_about-rustore.txt"
+  },
+  {
+    "question": "Какие меры безопасности применяются для проверки приложений в RuStore?",
+    "article": "/users_about-rustore.txt"
+  },
+  {
+    "question": "Какие способы авторизации поддерживаются в RuStore?",
+    "article": "/users_about-rustore.txt"
+  },
+  {
+    "question": "Как открыть окно инструментов разработчика в Google Chrome?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_google-chrome.txt"
+  },
+  {
+    "question": "Куда следует перейти в окне инструментов разработчика, чтобы начать сбор HAR-логов?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_google-chrome.txt"
+  },
+  {
+    "question": "Какие настройки нужно установить перед началом сбора HAR-логов?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_google-chrome.txt"
+  },
+  {
+    "question": "Какие действия нужно выполнить, чтобы сохранить собранные HAR-логи?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_google-chrome.txt"
+  },
+  {
+    "question": "Как сохранить консольные логи в Google Chrome?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_google-chrome.txt"
+  },
+  {
+    "question": "Какие условия необходимы для корректной работы SDK push-уведомлений для Defold?",
+    "article": "/sdk_push-notifications_defold_2-2-0.txt"
+  },
+  {
+    "question": "Как установить расширение `extension-rustore-push` через зависимости?",
+    "article": "/sdk_push-notifications_defold_2-2-0.txt"
+  },
+  {
+    "question": "Какие изменения необходимо внести в AndroidManifest.xml для интеграции RuStore push-уведомлений?",
+    "article": "/sdk_push-notifications_defold_2-2-0.txt"
+  },
+  {
+    "question": "Как запросить разрешение на показ уведомлений в Android 13 и выше с использованием RuStore Push SDK?",
+    "article": "/sdk_push-notifications_defold_2-2-0.txt"
+  },
+  {
+    "question": "Какие методы доступны для работы с push-токенами пользователя?",
+    "article": "/sdk_push-notifications_defold_2-2-0.txt"
+  },
+  {
+    "question": "Какие шаги нужно выполнить для регистрации юридического лица в RuStore Консоль?",
+    "article": "/developers_developer-account_registration-developer_registration#%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BF%D1%80%D0%BE.txt"
+  },
+  {
+    "question": "Что делать, если появилось сообщение «Не найдена электронная подпись» при попытке подписи?",
+    "article": "/developers_developer-account_registration-developer_registration#%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BF%D1%80%D0%BE.txt"
+  },
+  {
+    "question": "Как установить плагин «КриптоПро ЭЦП Browser plug-in» для создания и проверки электронной подписи на веб-страницах?",
+    "article": "/developers_developer-account_registration-developer_registration#%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BF%D1%80%D0%BE.txt"
+  },
+  {
+    "question": "В каких случаях плагин «КриптоПро» обязателен для использования?",
+    "article": "/developers_developer-account_registration-developer_registration#%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BF%D1%80%D0%BE.txt"
+  },
+  {
+    "question": "Как долго занимает процесс получения доступа в личный кабинет разработчика после завершения регистрации?",
+    "article": "/developers_developer-account_registration-developer_registration#%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BF%D1%80%D0%BE.txt"
+  },
+  {
+    "question": "Какой метод HTTP-запроса используется для отправки push-уведомлений через API RuStore?",
+    "article": "/sdk_push-notifications_send-push-notifications.txt"
+  },
+  {
+    "question": "Какие параметры должны быть указаны в заголовке запроса для отправки push-уведомлений?",
+    "article": "/sdk_push-notifications_send-push-notifications.txt"
+  },
+  {
+    "question": "Какую максимальную продолжительность имеет параметр ttl для сообщений на устройства Android?",
+    "article": "/sdk_push-notifications_send-push-notifications.txt"
+  },
+  {
+    "question": "Какие коды ошибок возможны при отправке сообщений и что они означают?",
+    "article": "/sdk_push-notifications_send-push-notifications.txt"
+  },
+  {
+    "question": "Какие поля обязательно должны присутствовать в структуре message при отсутствии поля message.data?",
+    "article": "/sdk_push-notifications_send-push-notifications.txt"
+  },
+  {
+    "question": "Какие способы обновления поддерживает RuStore In-app updates SDK?",
+    "article": "/sdk_updates_unity_0-2-1.txt"
+  },
+  {
+    "question": "Какие условия необходимо соблюдать для корректной работы RuStore In-app updates SDK?",
+    "article": "/sdk_updates_unity_0-2-1.txt"
+  },
+  {
+    "question": "Как подключить RuStore In-app updates SDK в проект Unity?",
+    "article": "/sdk_updates_unity_0-2-1.txt"
+  },
+  {
+    "question": "Какие возможные значения могут иметь параметры `updateAvailability` и `installStatus` в объекте `AppUpdateInfo`?",
+    "article": "/sdk_updates_unity_0-2-1.txt"
+  },
+  {
+    "question": "Какие ошибки могут возникнуть при использовании RuStore In-app updates SDK?",
+    "article": "/sdk_updates_unity_0-2-1.txt"
+  },
+  {
+    "question": "Какие дополнительные возможности предлагает Tracer?",
+    "article": "/developers_tools_app-tracer_android_additional-features.txt"
+  },
+  {
+    "question": "Как добавить информацию к событиям в Tracer?",
+    "article": "/developers_tools_app-tracer_android_additional-features.txt"
+  },
+  {
+    "question": "Как настроить собственное логирование в Tracer?",
+    "article": "/developers_tools_app-tracer_android_additional-features.txt"
+  },
+  {
+    "question": "Какие сценарии использования доступны для Tracer?",
+    "article": "/developers_tools_app-tracer_android_additional-features.txt"
+  },
+  {
+    "question": "Какие инструменты интегрированы с RuStore для работы с Tracer?",
+    "article": "/developers_tools_app-tracer_android_additional-features.txt"
+  },
+  {
+    "question": "Какие версии ОС Android поддерживаются для работы RuStore In-app updates SDK?",
+    "article": "/sdk_updates_kotlin-java_2-0-0.txt"
+  },
+  {
+    "question": "Какие типы обновлений поддерживает RuStore In-app updates SDK?",
+    "article": "/sdk_updates_kotlin-java_2-0-0.txt"
+  },
+  {
+    "question": "Какой метод используется для проверки наличия обновлений в RuStore In-app updates SDK?",
+    "article": "/sdk_updates_kotlin-java_2-0-0.txt"
+  },
+  {
+    "question": "Как можно зарегистрировать слушателя для отслеживания статуса скачивания обновлений?",
+    "article": "/sdk_updates_kotlin-java_2-0-0.txt"
+  },
+  {
+    "question": "Какие ошибки могут возникнуть при использовании RuStore In-app updates SDK и как они называются?",
+    "article": "/sdk_updates_kotlin-java_2-0-0.txt"
+  },
+  {
+    "question": "Какие предварительные условия необходимо выполнить для подключения MyTracker?",
+    "article": "/developers_tools_remote-config_ios-apps_enable-mytracker.txt"
+  },
+  {
+    "question": "Как создать аккаунт в MyTracker?",
+    "article": "/developers_tools_remote-config_ios-apps_enable-mytracker.txt"
+  },
+  {
+    "question": "Где нужно скопировать MyTracker idApp?",
+    "article": "/developers_tools_remote-config_ios-apps_enable-mytracker.txt"
+  },
+  {
+    "question": "Какие данные необходимо ввести на странице «Метрики» в IOS приложении для подключения MyTracker?",
+    "article": "/developers_tools_remote-config_ios-apps_enable-mytracker.txt"
+  },
+  {
+    "question": "Как будет обработан запрос на синхронизацию аккаунтов MyTracker и Remote Config, и где можно узнать о результате?",
+    "article": "/developers_tools_remote-config_ios-apps_enable-mytracker.txt"
+  },
+  {
+    "question": "Как выполнить отложенную публикацию версии приложения в RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_setting-up-publication_delayed-publication.txt"
+  },
+  {
+    "question": "На каком этапе доступна настройка отложенной публикации версии приложения?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_setting-up-publication_delayed-publication.txt"
+  },
+  {
+    "question": "Как управлять публикацией приложения во время его модерации в RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_setting-up-publication_delayed-publication.txt"
+  },
+  {
+    "question": "Что необходимо сделать, чтобы изменить настройки отложенной публикации после прохождения модерации?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_setting-up-publication_delayed-publication.txt"
+  },
+  {
+    "question": "Когда версия приложения автоматически публикуется в RuStore после прохождения модерации?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_setting-up-publication_delayed-publication.txt"
+  },
+  {
+    "question": "Какие действия необходимо выполнить на домашнем экране устройства для начала авторизации в RuStore через Госуслуги?",
+    "article": "/users_authorization_login-gosuslugi-id.txt"
+  },
+  {
+    "question": "Какой шаг следует после нажатия \"Войти в аккаунт\" для авторизации в RuStore через Госуслуги?",
+    "article": "/users_authorization_login-gosuslugi-id.txt"
+  },
+  {
+    "question": "Какие учётные данные необходимо ввести при авторизации через Госуслуги?",
+    "article": "/users_authorization_login-gosuslugi-id.txt"
+  },
+  {
+    "question": "Что нужно сделать после получения SMS с кодом подтверждения при авторизации через Госуслуги?",
+    "article": "/users_authorization_login-gosuslugi-id.txt"
+  },
+  {
+    "question": "Какие действия необходимо выполнить после ввода пароля от VK ID или кода push-уведомления для завершения авторизации через Госуслуги?",
+    "article": "/users_authorization_login-gosuslugi-id.txt"
+  },
+  {
+    "question": "Какой HTTP метод используется для оставления ответа на отзыв в RuStore API?",
+    "article": "/work-with-rustore-api_api-feedback-process_feedback-answer.txt"
+  },
+  {
+    "question": "Какой максимальной длины может быть наименование пакета приложения в параметре `packageName`?",
+    "article": "/work-with-rustore-api_api-feedback-process_feedback-answer.txt"
+  },
+  {
+    "question": "Какая максимальная длина текста ответа на отзыв в параметре `message`?",
+    "article": "/work-with-rustore-api_api-feedback-process_feedback-answer.txt"
+  },
+  {
+    "question": "Какой формат и тип данных используется для времени ответа на отзыв в параметрах ответа?",
+    "article": "/work-with-rustore-api_api-feedback-process_feedback-answer.txt"
+  },
+  {
+    "question": "Каким образом добавляется токен доступа к API RuStore в запросе?",
+    "article": "/work-with-rustore-api_api-feedback-process_feedback-answer.txt"
+  },
+  {
+    "question": "Как подключить MMR GL JS библиотеку на HTML-страницу?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_quick-start.txt"
+  },
+  {
+    "question": "Как инициализировать карту с использованием MMR GL JS в HTML?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_quick-start.txt"
+  },
+  {
+    "question": "Как создать токен для установки @geors/maps-sdk-js?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_quick-start.txt"
+  },
+  {
+    "question": "Как установить пакет @geors/maps-sdk-js с помощью npm или yarn?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_quick-start.txt"
+  },
+  {
+    "question": "Как инициализировать карту с использованием MMR GL JS в React приложении?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_quick-start.txt"
+  },
+  {
+    "question": "Какие изменения были внесены в версию 2.0.0 RuStore SDK push?",
+    "article": "/sdk_push-notifications_godot_history.txt"
+  },
+  {
+    "question": "Какие классы теперь используются для описания push-уведомлений в версии 2.0.0 SDK push?",
+    "article": "/sdk_push-notifications_godot_history.txt"
+  },
+  {
+    "question": "Какое новое поле добавлено в класс RuStoreError в версии 2.0.0 SDK push?",
+    "article": "/sdk_push-notifications_godot_history.txt"
+  },
+  {
+    "question": "Какие методы были добавлены для автоматической обработки ошибок в версии 2.0.0 SDK push?",
+    "article": "/sdk_push-notifications_godot_history.txt"
+  },
+  {
+    "question": "В какой версии SDK push была добавлена поддержка Godot 4.2+?",
+    "article": "/sdk_push-notifications_godot_history.txt"
+  },
+  {
+    "question": "Кто является компанией, ответственной за RuStore, и каковы её регистрационные данные?",
+    "article": "/legal_privacy-policy-non-resident-developers.txt"
+  },
+  {
+    "question": "Какие права и виды информации вы должны предоставить для регистрации и использования Сервиса?",
+    "article": "/legal_privacy-policy-non-resident-developers.txt"
+  },
+  {
+    "question": "Какие данные RuStore собирает о представителе Разработчика и с какой целью?",
+    "article": "/legal_privacy-policy-non-resident-developers.txt"
+  },
+  {
+    "question": "Какие меры безопасности принимает RuStore для защиты персональных данных?",
+    "article": "/legal_privacy-policy-non-resident-developers.txt"
+  },
+  {
+    "question": "Что произойдёт, если представитель Разработчика отзовёт своё согласие на обработку данных или не предоставит необходимые данные?",
+    "article": "/legal_privacy-policy-non-resident-developers.txt"
+  },
+  {
+    "question": "Что содержат HAR-логи (HTTP-архив)?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_.txt"
+  },
+  {
+    "question": "Для чего собираются HAR-логи?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_.txt"
+  },
+  {
+    "question": "Какие данные находятся в HAR-логах?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_.txt"
+  },
+  {
+    "question": "Какую функцию выполняют HAR-логи при диагностике проблем загрузки?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_.txt"
+  },
+  {
+    "question": "Что необходимо сделать перед началом работы с HAR-логами?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_.txt"
+  },
+  {
+    "question": "Какие инструменты предоставляет RuStore для разработчиков, чтобы те могли встраивать их в свои приложения и игры?",
+    "article": "/users_purchases-and-returns_without-rustore-app.txt"
+  },
+  {
+    "question": "Как осуществляется оплата покупок и подписок в приложениях без установки RuStore?",
+    "article": "/users_purchases-and-returns_without-rustore-app.txt"
+  },
+  {
+    "question": "Какие методы авторизации используются при покупке товара или подписки в приложении, если RuStore не установлен на устройстве?",
+    "article": "/users_purchases-and-returns_without-rustore-app.txt"
+  },
+  {
+    "question": "Какие преимущества предоставляет установка RuStore для пользователей?",
+    "article": "/users_purchases-and-returns_without-rustore-app.txt"
+  },
+  {
+    "question": "Какие особенности имеют способы оплаты в приложениях, использующих RuStore, если магазин приложений был установлен и затем удалён с устройства?",
+    "article": "/users_purchases-and-returns_without-rustore-app.txt"
+  },
+  {
+    "question": "Каковы основные условия корректной работы SDK push-уведомлений для Defold (версия 2.3.0)?",
+    "article": "/sdk_push-notifications_defold_2-3-0.txt"
+  },
+  {
+    "question": "Как установить и подключить расширение RuStorePush SDK в проект Defold?",
+    "article": "/sdk_push-notifications_defold_2-3-0.txt"
+  },
+  {
+    "question": "Какие изменения нужно внести в AndroidManifest.xml для инициализации push-клиента RuStore?",
+    "article": "/sdk_push-notifications_defold_2-3-0.txt"
+  },
+  {
+    "question": "Как запросить разрешение на показ push-уведомлений в Android 13+?",
+    "article": "/sdk_push-notifications_defold_2-3-0.txt"
+  },
+  {
+    "question": "Какие параметры необходимо указать для инициализации сервиса push-уведомлений в файле game.project вашего проекта?",
+    "article": "/sdk_push-notifications_defold_2-3-0.txt"
+  },
+  {
+    "question": "Какой метод HTTP используется для получения статуса ответа на отзыв?",
+    "article": "/work-with-rustore-api_api-feedback-process_get-feedback-status.txt"
+  },
+  {
+    "question": "Что означает статус ответа PUBLISHED?",
+    "article": "/work-with-rustore-api_api-feedback-process_get-feedback-status.txt"
+  },
+  {
+    "question": "Какие параметры необходимо передать в запросе для получения статуса конкретного ответа на отзыв?",
+    "article": "/work-with-rustore-api_api-feedback-process_get-feedback-status.txt"
+  },
+  {
+    "question": "Какой формат времени используется в параметре timestamp?",
+    "article": "/work-with-rustore-api_api-feedback-process_get-feedback-status.txt"
+  },
+  {
+    "question": "Как выглядит пример запроса на получение статуса ответа на отзыв?",
+    "article": "/work-with-rustore-api_api-feedback-process_get-feedback-status.txt"
+  },
+  {
+    "question": "Как создать черновик версии приложения с информацией о приложении?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_.txt"
+  },
+  {
+    "question": "Каким методом загружаются APK-файлы для публикации приложения?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_.txt"
+  },
+  {
+    "question": "Как можно удалить черновик версии приложения?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_.txt"
+  },
+  {
+    "question": "Каким методом отправить черновик версии приложения на модерацию?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_.txt"
+  },
+  {
+    "question": "Как изменить настройки публикации приложения (тип публикации, дату отложенной публикации, процент частичной публикации)?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_.txt"
+  },
+  {
+    "question": "Как посмотреть результаты эксперимента в RuStore Remote Config?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-result.txt"
+  },
+  {
+    "question": "Какие данные можно просмотреть на странице с результатами эксперимента?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-result.txt"
+  },
+  {
+    "question": "Как можно изменить параметр «Альфа» и как это влияет на результаты эксперимента?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-result.txt"
+  },
+  {
+    "question": "Какие статистические тесты используются для различных типов метрик?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-result.txt"
+  },
+  {
+    "question": "Что означает параметр MDE (минимальный детектируемый эффект) в результатах эксперимента?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-result.txt"
+  },
+  {
+    "question": "Какую зависимость нужно добавить в `build.gradle`, чтобы подключить модуль Heap Dumps?",
+    "article": "/developers_tools_app-tracer_android_modules_heap-dumps.txt"
+  },
+  {
+    "question": "Какой метод используется для включения или отключения сбора хипдампов при OOM в `HeapDumpConfiguration.Builder`?",
+    "article": "/developers_tools_app-tracer_android_modules_heap-dumps.txt"
+  },
+  {
+    "question": "Какие опции в `HeapDumpConfiguration.Builder` являются устаревшими и будут удалены в версии 0.3.x?",
+    "article": "/developers_tools_app-tracer_android_modules_heap-dumps.txt"
+  },
+  {
+    "question": "Куда следует поместить реализацию класса с `HeapDumpConfiguration` в проекте?",
+    "article": "/developers_tools_app-tracer_android_modules_heap-dumps.txt"
+  },
+  {
+    "question": "В какое время отправляются хипдампы, чтобы не мешать пользователю?",
+    "article": "/developers_tools_app-tracer_android_modules_heap-dumps.txt"
+  },
+  {
+    "question": "Какие этапы включает тестирование приложений в RuStore Консоли?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_testing.txt"
+  },
+  {
+    "question": "Какие форматы приложений поддерживаются для тестирования в RuStore Консоли?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_testing.txt"
+  },
+  {
+    "question": "Какие требования предъявляются к добавляемым тестировщикам?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_testing.txt"
+  },
+  {
+    "question": "Как завершить тестирование приложения в RuStore Консоли?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_testing.txt"
+  },
+  {
+    "question": "Какие действия нужно выполнить для добавления тестировщика в RuStore Консоли?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_testing.txt"
+  },
+  {
+    "question": "Какие условия необходимо соблюдать для корректной работы RuStore In-app Review SDK?",
+    "article": "/sdk_reviews-ratings_kotlin-java_6-0-0.txt"
+  },
+  {
+    "question": "В какие моменты рекомендуется запрашивать оценку и отзыв о приложении у пользователя?",
+    "article": "/sdk_reviews-ratings_kotlin-java_6-0-0.txt"
+  },
+  {
+    "question": "Каковы рекомендации к дизайну процесса запроса оценки и отзыва?",
+    "article": "/sdk_reviews-ratings_kotlin-java_6-0-0.txt"
+  },
+  {
+    "question": "Как подключить RuStore In-app Review SDK в проект на Kotlin или Java?",
+    "article": "/sdk_reviews-ratings_kotlin-java_6-0-0.txt"
+  },
+  {
+    "question": "Какие ошибки могут возникнуть при использовании RuStore In-app Review SDK и как их обрабатывать?",
+    "article": "/sdk_reviews-ratings_kotlin-java_6-0-0.txt"
+  },
+  {
+    "question": "Как создать A/B эксперимент в RuStore?",
+    "article": "/developers_tools_remote-config_ab-testing.txt"
+  },
+  {
+    "question": "Какие инструменты предоставляет RuStore для работы с A/B-тестированием?",
+    "article": "/developers_tools_remote-config_ab-testing.txt"
+  },
+  {
+    "question": "Как можно подключить MyTracker к A/B-тестированию?",
+    "article": "/developers_tools_remote-config_ab-testing.txt"
+  },
+  {
+    "question": "Какие действия можно выполнять с метриками в A/B-тестировании?",
+    "article": "/developers_tools_remote-config_ab-testing.txt"
+  },
+  {
+    "question": "Как настроить обязательное подтверждение в Remote Config?",
+    "article": "/developers_tools_remote-config_ab-testing.txt"
+  },
+  {
+    "question": "Какие условия необходимо соблюсти для просмотра статистики по монетизации в RuStore Консоли?",
+    "article": "/developers_developer-statistics_monetization-stat_.txt"
+  },
+  {
+    "question": "Какие типы данных отображаются в статистике по возвратам и доходам в RuStore Консоли?",
+    "article": "/developers_developer-statistics_monetization-stat_.txt"
+  },
+  {
+    "question": "Какие источники дохода могут быть проанализированы с помощью статистики по платежам в RuStore Консоли?",
+    "article": "/developers_developer-statistics_monetization-stat_.txt"
+  },
+  {
+    "question": "Какой период времени можно выбрать для просмотра статистики в RuStore Консоли?",
+    "article": "/developers_developer-statistics_monetization-stat_.txt"
+  },
+  {
+    "question": "Какие шаги нужно выполнить, чтобы просмотреть статистику по платежам в RuStore Консоли?",
+    "article": "/developers_developer-statistics_monetization-stat_.txt"
+  },
+  {
+    "question": "Как выбрать варианты подписок в RuStore?",
+    "article": "/users_purchases-and-returns_subscription-management.txt"
+  },
+  {
+    "question": "Как проверить способ оплаты подписки в RuStore?",
+    "article": "/users_purchases-and-returns_subscription-management.txt"
+  },
+  {
+    "question": "Как изменить способ оплаты для текущей подписки в RuStore?",
+    "article": "/users_purchases-and-returns_subscription-management.txt"
+  },
+  {
+    "question": "Как отменить подписку в RuStore?",
+    "article": "/users_purchases-and-returns_subscription-management.txt"
+  },
+  {
+    "question": "Как возобновить подписку в RuStore?",
+    "article": "/users_purchases-and-returns_subscription-management.txt"
+  },
+  {
+    "question": "Какие действия нужно выполнить на домашнем экране устройства, чтобы выйти из аккаунта в RuStore?",
+    "article": "/users_authorization_how-to-get-out.txt"
+  },
+  {
+    "question": "Какой пункт меню следует выбрать в нижнем меню для выхода из аккаунта?",
+    "article": "/users_authorization_how-to-get-out.txt"
+  },
+  {
+    "question": "Куда нужно нажать после выбора вашего аккаунта, чтобы выйти из RuStore?",
+    "article": "/users_authorization_how-to-get-out.txt"
+  },
+  {
+    "question": "Какой шаг является последним при выходе из аккаунта в RuStore?",
+    "article": "/users_authorization_how-to-get-out.txt"
+  },
+  {
+    "question": "Что нужно сделать после нажатия на название своего аккаунта для завершения сеанса в RuStore?",
+    "article": "/users_authorization_how-to-get-out.txt"
+  },
+  {
+    "question": "Какие URL используются для получения данных платежа для реальных и тестовых платежей?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-token-payment-method_.txt"
+  },
+  {
+    "question": "Какие параметры должны быть указаны в заголовке и пути при отправке запроса на получение данных платежа?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-token-payment-method_.txt"
+  },
+  {
+    "question": "Какие возможные значения может принимать атрибут invoice_status в ответе?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-token-payment-method_.txt"
+  },
+  {
+    "question": "Какую информацию содержит объект body.invoice.order.order_bundle?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-token-payment-method_.txt"
+  },
+  {
+    "question": "Какие атрибуты содержит объект body.payment_info.device_info?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-token-payment-method_.txt"
+  },
+  {
+    "question": "Что такое SDK Remote Config и для чего он используется?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_6-0-0.txt"
+  },
+  {
+    "question": "Какие основные преимущества использования BOM-файла для конфигурации?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_6-0-0.txt"
+  },
+  {
+    "question": "Как правильно инициализировать RemoteConfigClient и какие параметры можно использовать для его настройки?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_6-0-0.txt"
+  },
+  {
+    "question": "Какие типы объектов поддерживаются для получения данных из класса RemoteConfig?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_6-0-0.txt"
+  },
+  {
+    "question": "Какие ошибки могут возникнуть при работе с SDK Remote Config и как они описываются?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_6-0-0.txt"
+  },
+  {
+    "question": "Какие условия выплаты вознаграждения ВК предусмотрены по данному Дополнительному соглашению?",
+    "article": "/legal_add-agreement-form_.txt"
+  },
+  {
+    "question": "В какой валюте изначально рассчитываются выплаты по данному Дополнительному соглашению?",
+    "article": "/legal_add-agreement-form_.txt"
+  },
+  {
+    "question": "Какой процент от дохода Разработчика составляет вознаграждение ВК за услуги?",
+    "article": "/legal_add-agreement-form_.txt"
+  },
+  {
+    "question": "Какие действия должен предпринять Разработчик в случае изменения своих платежных реквизитов?",
+    "article": "/legal_add-agreement-form_.txt"
+  },
+  {
+    "question": "Какие меры должен предпринять Разработчик в случае получения Акта с мотивированными возражениями?",
+    "article": "/legal_add-agreement-form_.txt"
+  },
+  {
+    "question": "Какие действия необходимо выполнить для открытия окна инструментов разработчика в Mozilla Firefox?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_firefox.txt"
+  },
+  {
+    "question": "На какую вкладку нужно перейти для сбора HAR-логов в Mozilla Firefox?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_firefox.txt"
+  },
+  {
+    "question": "Какой флажок необходимо установить в сетевой таблице для сбора непрерывных логов?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_firefox.txt"
+  },
+  {
+    "question": "Какие шаги следует выполнить после воспроизведения проблемы для сохранения HAR-логов?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_firefox.txt"
+  },
+  {
+    "question": "Какие действия нужно выполнить для сбора консольных логов в Mozilla Firefox?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_firefox.txt"
+  },
+  {
+    "question": "Как определить, что приложение загружено из иностранного магазина в RuStore?",
+    "article": "/users_purchases-and-returns_foreign-apps.txt"
+  },
+  {
+    "question": "Какие шаги необходимо выполнить для совершения покупки в иностранном приложении через RuStore?",
+    "article": "/users_purchases-and-returns_foreign-apps.txt"
+  },
+  {
+    "question": "Что нужно сделать перед удалением приложения AppCoins Wallet для восстановления доступа в будущем?",
+    "article": "/users_purchases-and-returns_foreign-apps.txt"
+  },
+  {
+    "question": "Какие данные необходимо указать при запросе возврата средств за покупку в иностранном магазине приложений?",
+    "article": "/users_purchases-and-returns_foreign-apps.txt"
+  },
+  {
+    "question": "Каким образом можно обратиться в поддержку AppCoins Wallet для решения возникших вопросов?",
+    "article": "/users_purchases-and-returns_foreign-apps.txt"
+  },
+  {
+    "question": "Как узнать подпись APK с помощью Android Studio?",
+    "article": "/developers_check-apk-signature.txt"
+  },
+  {
+    "question": "Какая команда используется в Android Studio для получения отпечатка подписи APK?",
+    "article": "/developers_check-apk-signature.txt"
+  },
+  {
+    "question": "Как узнать подпись APK с помощью apksigner?",
+    "article": "/developers_check-apk-signature.txt"
+  },
+  {
+    "question": "Какая команда используется в keytool для получения отпечатка подписи APK?",
+    "article": "/developers_check-apk-signature.txt"
+  },
+  {
+    "question": "Где указан отпечаток подписи для проверки пуш-уведомлений?",
+    "article": "/developers_check-apk-signature.txt"
+  },
+  {
+    "question": "Какой метод позволяет сгенерировать JWE-токен в RuStore?",
+    "article": "/work-with-rustore-api_api-authorization-token.txt"
+  },
+  {
+    "question": "Какой параметр необходимо использовать для авторизации вместо companyId после 30.07?",
+    "article": "/work-with-rustore-api_api-authorization-token.txt"
+  },
+  {
+    "question": "Какие обязательные параметры нужно указать в теле запроса для получения токена авторизации?",
+    "article": "/work-with-rustore-api_api-authorization-token.txt"
+  },
+  {
+    "question": "Каким образом формируется параметр signature для запроса на получение токена авторизации?",
+    "article": "/work-with-rustore-api_api-authorization-token.txt"
+  },
+  {
+    "question": "Что означают коды ошибок 400 и 404 в ответах API на попытку получения токена авторизации?",
+    "article": "/work-with-rustore-api_api-authorization-token.txt"
+  },
+  {
+    "question": "Какую версию RuStore SDK нужно встраивать в тестируемое приложение для поддержания функции тестирования платежей?",
+    "article": "/developers_monetization_sandbox_enable-test-mode.txt"
+  },
+  {
+    "question": "Какие требования к версии RuStore на устройстве Android для тестирования платежей в приложении?",
+    "article": "/developers_monetization_sandbox_enable-test-mode.txt"
+  },
+  {
+    "question": "Какие условия должны быть выполнены для компании перед началом тестирования платежей?",
+    "article": "/developers_monetization_sandbox_enable-test-mode.txt"
+  },
+  {
+    "question": "В каком меню RuStore Консоли необходимо выбирать «Тестировщики» для включения тестового режима?",
+    "article": "/developers_monetization_sandbox_enable-test-mode.txt"
+  },
+  {
+    "question": "Какие действия нужно выполнить, чтобы включить тестовый режим в RuStore Консоли?",
+    "article": "/developers_monetization_sandbox_enable-test-mode.txt"
+  },
+  {
+    "question": "Как подключить репозиторий и зависимости для RuStore SDK Remote Config в проект?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_0-1-0.txt"
+  },
+  {
+    "question": "Какие опциональные параметры можно установить через RemoteConfigClientBuilder?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_0-1-0.txt"
+  },
+  {
+    "question": "Какие существуют варианты поведения при использовании параметра UpdateBehaviour в SDK Remote Config и чем они отличаются?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_0-1-0.txt"
+  },
+  {
+    "question": "Как реализовать и добавить ConfigRequestParameterProvider для передачи динамических параметров на сервер?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_0-1-0.txt"
+  },
+  {
+    "question": "Какие типы ошибок могут возникнуть при работе с SDK Remote Config и что они означают?",
+    "article": "/developers_tools_remote-config_sdk_kotlin_0-1-0.txt"
+  },
+  {
+    "question": "Как просмотреть информацию по платежам в RuStore Консоли?",
+    "article": "/developers_monetization_manage-payments#payment-status.txt"
+  },
+  {
+    "question": "Какие данные о покупках можно просмотреть в таблице на вкладке «Монетизация → Управление платежами»?",
+    "article": "/developers_monetization_manage-payments#payment-status.txt"
+  },
+  {
+    "question": "Какие параметры можно использовать для фильтрации платежей при поиске конкретного платежа в RuStore Консоли?",
+    "article": "/developers_monetization_manage-payments#payment-status.txt"
+  },
+  {
+    "question": "Какие статусы могут быть у платежа в RuStore?",
+    "article": "/developers_monetization_manage-payments#payment-status.txt"
+  },
+  {
+    "question": "Как оформить возврат платежа покупателю в RuStore Консоли?",
+    "article": "/developers_monetization_manage-payments#payment-status.txt"
+  },
+  {
+    "question": "Что такое RuStore и какая его основная функция?",
+    "article": "/users_about-rustore_.txt"
+  },
+  {
+    "question": "Какие компании участвуют в разработке RuStore?",
+    "article": "/users_about-rustore_.txt"
+  },
+  {
+    "question": "Какие способы авторизации поддерживает RuStore?",
+    "article": "/users_about-rustore_.txt"
+  },
+  {
+    "question": "Как установить бесплатное приложение из RuStore?",
+    "article": "/users_about-rustore_.txt"
+  },
+  {
+    "question": "Как настроить автообновление приложений в RuStore?",
+    "article": "/users_about-rustore_.txt"
+  },
+  {
+    "question": "Какую ключевую пару необходимо сгенерировать для получения доступа к API RuStore?",
+    "article": "/work-with-rustore-api_api-authorization-process_.txt"
+  },
+  {
+    "question": "Какой алгоритм шифрования используется для генерации ключей в RuStore?",
+    "article": "/work-with-rustore-api_api-authorization-process_.txt"
+  },
+  {
+    "question": "Какие шаги нужно выполнить, чтобы создать приватный ключ в RuStore Консоли?",
+    "article": "/work-with-rustore-api_api-authorization-process_.txt"
+  },
+  {
+    "question": "Какой метод API используется для получения JWE-токена с закрытым ключом?",
+    "article": "/work-with-rustore-api_api-authorization-process_.txt"
+  },
+  {
+    "question": "Какой срок действия JWE-токена, полученного с помощью метода POST /public/auth/?",
+    "article": "/work-with-rustore-api_api-authorization-process_.txt"
+  },
+  {
+    "question": "Какие версии ОС Android поддерживаются RuStore In-app updates SDK?",
+    "article": "/sdk_updates_defold_1-0-1.txt"
+  },
+  {
+    "question": "Как проверить наличие доступного обновления для приложения?",
+    "article": "/sdk_updates_defold_1-0-1.txt"
+  },
+  {
+    "question": "Какие сценарии обновления поддерживаются RuStore In-app updates SDK?",
+    "article": "/sdk_updates_defold_1-0-1.txt"
+  },
+  {
+    "question": "Какие статусы установки обновления возможны?",
+    "article": "/sdk_updates_defold_1-0-1.txt"
+  },
+  {
+    "question": "Как подключить RuStore In-app updates SDK к своему проекту?",
+    "article": "/sdk_updates_defold_1-0-1.txt"
+  },
+  {
+    "question": "Что такое прямое геокодирование и какова его цель?",
+    "article": "/sdk_rustore-geo_search-and-geocoding-services_geocoding-service.txt"
+  },
+  {
+    "question": "Какие обязательные параметры нужно указать при выполнении запроса на геокодирование?",
+    "article": "/sdk_rustore-geo_search-and-geocoding-services_geocoding-service.txt"
+  },
+  {
+    "question": "Какие дополнительные параметры запроса можно использовать для прямого геокодирования?",
+    "article": "/sdk_rustore-geo_search-and-geocoding-services_geocoding-service.txt"
+  },
+  {
+    "question": "В каком формате предоставляется ответ сервиса геокодирования и что он содержит?",
+    "article": "/sdk_rustore-geo_search-and-geocoding-services_geocoding-service.txt"
+  },
+  {
+    "question": "Какие типы геометрии могут быть указаны в поле \"geometry\" ответа?",
+    "article": "/sdk_rustore-geo_search-and-geocoding-services_geocoding-service.txt"
+  },
+  {
+    "question": "Что такое accessToken и для чего он используется?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#cameraoptions-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Какое значение по умолчанию установлено для параметра workerCount?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#cameraoptions-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Для чего используется метод setRTLTextPlugin и какие параметры он принимает?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#cameraoptions-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Что такое CameraOptions и какие параметры входят в эту группу?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#cameraoptions-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Какой метод используется для очистки ресурсов, созданных ранее вызовом prewarm()?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_options#cameraoptions-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2.txt"
+  },
+  {
+    "question": "Какие условия необходимы для корректной работы RuStore In-app Review SDK?",
+    "article": "/sdk_reviews-ratings_godot_1-0-1.txt"
+  },
+  {
+    "question": "Какие рекомендации существуют для запроса оценки и отзыва от пользователя?",
+    "article": "/sdk_reviews-ratings_godot_1-0-1.txt"
+  },
+  {
+    "question": "Как правильно подключить плагин RuStore In-app Review SDK в проект на Godot Engine?",
+    "article": "/sdk_reviews-ratings_godot_1-0-1.txt"
+  },
+  {
+    "question": "Какие шаги необходимо выполнить для инициализации и запуска формы запроса оценки приложения?",
+    "article": "/sdk_reviews-ratings_godot_1-0-1.txt"
+  },
+  {
+    "question": "Какие возможные ошибки могут возникнуть при использовании RuStore In-app Review SDK и каковы их описания?",
+    "article": "/sdk_reviews-ratings_godot_1-0-1.txt"
+  },
+  {
+    "question": "Какие параметры должны быть в коде нового приложения для работы с RuStore Remote Config?",
+    "article": "/developers_tools_remote-config_how-it-works.txt"
+  },
+  {
+    "question": "Какую информацию SDK получает при запуске приложения в ответ от RuStore Remote Config?",
+    "article": "/developers_tools_remote-config_how-it-works.txt"
+  },
+  {
+    "question": "Что происходит, если хэш полученного конфига совпадает с хэшем конфига, который нужно отдать на запрос?",
+    "article": "/developers_tools_remote-config_how-it-works.txt"
+  },
+  {
+    "question": "Когда приложение применяет полученный конфиг из RuStore Remote Config?",
+    "article": "/developers_tools_remote-config_how-it-works.txt"
+  },
+  {
+    "question": "Почему пользователи не увидят изменения в интерфейсе в реальном времени после получения конфига?",
+    "article": "/developers_tools_remote-config_how-it-works.txt"
+  },
+  {
+    "question": "Где рекомендуется загружать и обновлять приложения, чтобы защитить свое устройство?",
+    "article": "/users_policies_protect-device.txt"
+  },
+  {
+    "question": "Что нужно сделать, если вы заметили подозрительную активность телефона, такую как отправка СМС или попытки звонков на незнакомые номера?",
+    "article": "/users_policies_protect-device.txt"
+  },
+  {
+    "question": "Какую функцию необходимо включить в настройках операционной системы для регулярных обновлений?",
+    "article": "/users_policies_protect-device.txt"
+  },
+  {
+    "question": "Почему важно использовать двухфакторную аутентификацию?",
+    "article": "/users_policies_protect-device.txt"
+  },
+  {
+    "question": "Какие меры безопасности необходимо предпринять при звонках с незнакомых номеров, когда просят установить приложение?",
+    "article": "/users_policies_protect-device.txt"
+  },
+  {
+    "question": "Что такое RuStore Geo?",
+    "article": "/sdk_rustore-geo_general_intro.txt"
+  },
+  {
+    "question": "Какой ключ необходим для использования продуктов RuStore Geo?",
+    "article": "/sdk_rustore-geo_general_intro.txt"
+  },
+  {
+    "question": "Какие языки поддерживаются RuStore Geo?",
+    "article": "/sdk_rustore-geo_general_intro.txt"
+  },
+  {
+    "question": "Какое стандартное ограничение скорости запросов установлено для сервисов RuStore Geo?",
+    "article": "/sdk_rustore-geo_general_intro.txt"
+  },
+  {
+    "question": "К кому нужно обратиться для увеличения скорости запросов в RuStore Geo?",
+    "article": "/sdk_rustore-geo_general_intro.txt"
+  },
+  {
+    "question": "Какие разделы доступны в мобильном приложении RuStore?",
+    "article": "/users_start_interface.txt"
+  },
+  {
+    "question": "Что отображается в разделе «Интересное» в RuStore?",
+    "article": "/users_start_interface.txt"
+  },
+  {
+    "question": "Какие виды подборок могут быть представлены в разделе «Интересное»?",
+    "article": "/users_start_interface.txt"
+  },
+  {
+    "question": "Как перейти к странице для установки или обновления приложения в разделе «Приложения»?",
+    "article": "/users_start_interface.txt"
+  },
+  {
+    "question": "Какая информация отображается в разделе «Моё»?",
+    "article": "/users_start_interface.txt"
+  },
+  {
+    "question": "Какие версии ОС Android необходимы для корректной работы RuStore In-app updates SDK?",
+    "article": "/sdk_updates_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Какие типы обновлений поддерживаются SDK RuStore In-app updates?",
+    "article": "/sdk_updates_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Какие шаги необходимо выполнить для подключения RuStore In-app updates SDK в проект Unreal Engine?",
+    "article": "/sdk_updates_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Как проверить, доступно ли обновление для вашего приложения с помощью RuStore In-app updates SDK?",
+    "article": "/sdk_updates_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Какие возможные ошибки могут возникнуть при работе с RuStore In-app updates SDK и их описание?",
+    "article": "/sdk_updates_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Как выбрать тип приложения (бесплатное или платное) при добавлении нового приложения в RuStore Консоль?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app_.txt"
+  },
+  {
+    "question": "Как изменить цену приложения в RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app_.txt"
+  },
+  {
+    "question": "Какой тип приложения следует выбрать, если APK подходит для телефона, планшета и ТВ?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app_.txt"
+  },
+  {
+    "question": "Какая комиссия взимается RuStore с дохода разработчика для платных приложений?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app_.txt"
+  },
+  {
+    "question": "Что нужно сделать перед тем, как отправить приложение на модерацию в RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app_.txt"
+  },
+  {
+    "question": "Какой метод используется для изменения текста ответа на отзыв?",
+    "article": "/work-with-rustore-api_api-feedback-process_change-feedback-answer.txt"
+  },
+  {
+    "question": "Какие параметры необходимо указать в запросе на изменение ответа на отзыв?",
+    "article": "/work-with-rustore-api_api-feedback-process_change-feedback-answer.txt"
+  },
+  {
+    "question": "В каком формате должен быть предоставлен Public-Token в запросе?",
+    "article": "/work-with-rustore-api_api-feedback-process_change-feedback-answer.txt"
+  },
+  {
+    "question": "Какое максимальное количество символов может иметь измененный текст ответа на отзыв?",
+    "article": "/work-with-rustore-api_api-feedback-process_change-feedback-answer.txt"
+  },
+  {
+    "question": "Что происходит с идентификатором ответа на отзыв после его изменения?",
+    "article": "/work-with-rustore-api_api-feedback-process_change-feedback-answer.txt"
+  },
+  {
+    "question": "Какие условия необходимо соблюдать для корректной работы RuStore In-app Review SDK?",
+    "article": "/sdk_reviews-ratings_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Когда рекомендуется запросить оценку и отзыв у пользователя?",
+    "article": "/sdk_reviews-ratings_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Каковы рекомендации к дизайну для интеграции процесса оценки и отзыва?",
+    "article": "/sdk_reviews-ratings_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Какие шаги включает в себя подключение SDK отзывов и оценок в проект на Unreal Engine?",
+    "article": "/sdk_reviews-ratings_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Какие возможные ошибки могут возникнуть при работе с RuStore In-app Review SDK и их структура?",
+    "article": "/sdk_reviews-ratings_unreal_2-0-0.txt"
+  },
+  {
+    "question": "Что такое подписи приложений Android?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_apk-signature?utm_source=direct_none.txt"
+  },
+  {
+    "question": "Как Android проверяет версии APK-файлов?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_apk-signature?utm_source=direct_none.txt"
+  },
+  {
+    "question": "Для чего нужна проверка подписей приложений?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_apk-signature?utm_source=direct_none.txt"
+  },
+  {
+    "question": "Обязательно ли использовать подпись с Google Play, если есть собственная?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_apk-signature?utm_source=direct_none.txt"
+  },
+  {
+    "question": "Почему пользователи не могут обновить приложения?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_apk-signature?utm_source=direct_none.txt"
+  },
+  {
+    "question": "Какова структура URL для получения информации о реальных подписках в RuStore API?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-id-payment-method-v3_.txt"
+  },
+  {
+    "question": "Какие параметры обязательны для запроса на получение данных подписки (V3)?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-id-payment-method-v3_.txt"
+  },
+  {
+    "question": "Какой атрибут в успешном ответе указывает на время истечения срока действия подписки в миллисекундах?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-id-payment-method-v3_.txt"
+  },
+  {
+    "question": "Что означает значение \"0\" для атрибута `paymentState`?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-id-payment-method-v3_.txt"
+  },
+  {
+    "question": "В каком формате указывается период начальной цены для подписок с промо периодом?",
+    "article": "/work-with-rustore-api_api-subscription-payment_api-id-payment-method-v3_.txt"
+  },
+  {
+    "question": "Какие шаги необходимо выполнить для регистрации разработчика в RuStore Консоль?",
+    "article": "/developers_developer-account.txt"
+  },
+  {
+    "question": "Как можно узнать свой VK ID для работы в RuStore Консоль?",
+    "article": "/developers_developer-account.txt"
+  },
+  {
+    "question": "Как добавить дополнительных разработчиков в аккаунт RuStore Консоль?",
+    "article": "/developers_developer-account.txt"
+  },
+  {
+    "question": "Каким образом можно назначать роли пользователям в RuStore Консоль?",
+    "article": "/developers_developer-account.txt"
+  },
+  {
+    "question": "Какими способами можно управлять аккаунтом разработчика в RuStore Консоль?",
+    "article": "/developers_developer-account.txt"
+  },
+  {
+    "question": "Какую кнопку нужно настроить в сообществе ВКонтакте, чтобы пользователи могли скачивать приложение из RuStore?",
+    "article": "/developers_advertising-and-promotion_vk-link.txt"
+  },
+  {
+    "question": "Кто имеет возможность изменять настройки для добавления ссылки на приложение из RuStore в группе ВКонтакте?",
+    "article": "/developers_advertising-and-promotion_vk-link.txt"
+  },
+  {
+    "question": "Какие шаги нужно выполнить для настройки кнопки действия в сообществе ВКонтакте?",
+    "article": "/developers_advertising-and-promotion_vk-link.txt"
+  },
+  {
+    "question": "Какой пункт надо выбрать в поле «Тип действия», чтобы добавить ссылку на приложение из RuStore?",
+    "article": "/developers_advertising-and-promotion_vk-link.txt"
+  },
+  {
+    "question": "Что необходимо сделать после добавления ссылки на приложение в поле RuStore, чтобы применить настройки?",
+    "article": "/developers_advertising-and-promotion_vk-link.txt"
+  },
+  {
+    "question": "Какие шаги нужно выполнить, чтобы опубликовать приложение для ОС Аврора в RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_app-publication-aurora_.txt"
+  },
+  {
+    "question": "Какие требования предъявляются к загрузке RPM-файлов для ОС Аврора?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_app-publication-aurora_.txt"
+  },
+  {
+    "question": "Что нужно указать в разделе «Что нового?» при загрузке второй и последующих версий приложения?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_app-publication-aurora_.txt"
+  },
+  {
+    "question": "Какие требования предъявляются к иконке приложения для мобильных устройств?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_app-publication-aurora_.txt"
+  },
+  {
+    "question": "Какие опции публикации версии приложения доступны перед отправкой на модерацию?",
+    "article": "/developers_publishing-and-verifying-apps_app-publication_app-publication-aurora_.txt"
+  },
+  {
+    "question": "Какие методы объявлены устаревшими в версии 0.2.7?",
+    "article": "/developers_tools_app-tracer_android_start_migration.txt"
+  },
+  {
+    "question": "Что следует использовать вместо TracerCrashReport.log(Throwable) в версии 0.2.3?",
+    "article": "/developers_tools_app-tracer_android_start_migration.txt"
+  },
+  {
+    "question": "Каким образом изменился способ подключения tracer-plugin в версии 0.2.3?",
+    "article": "/developers_tools_app-tracer_android_start_migration.txt"
+  },
+  {
+    "question": "Какие интерфейсы следует реализовать вместо вызовов методов Tracer.configure и Tracer.configureAsync в версии 0.2.2?",
+    "article": "/developers_tools_app-tracer_android_start_migration.txt"
+  },
+  {
+    "question": "Какие методы следует вызывать вместо TracerEvents.addEvent() для профилирования в версии 0.2.7?",
+    "article": "/developers_tools_app-tracer_android_start_migration.txt"
+  },
+  {
+    "question": "Какие условия необходимо выполнить для корректной работы SDK push-уведомлений в RuStore?",
+    "article": "/sdk_push-notifications_unreal_1-0-0.txt"
+  },
+  {
+    "question": "Как подключить RuStore SDK push-уведомлений в проект Unreal Engine?",
+    "article": "/sdk_push-notifications_unreal_1-0-0.txt"
+  },
+  {
+    "question": "Какие шаги необходимо выполнить для запроса разрешения на показ уведомлений в Android 13?",
+    "article": "/sdk_push-notifications_unreal_1-0-0.txt"
+  },
+  {
+    "question": "Как инициализировать RuStore Push SDK в проекте с использованием C++ и Blueprints?",
+    "article": "/sdk_push-notifications_unreal_1-0-0.txt"
+  },
+  {
+    "question": "Как осуществляется подписка и отписка от push-уведомлений по топику с использованием RuStore Push SDK?",
+    "article": "/sdk_push-notifications_unreal_1-0-0.txt"
+  },
+  {
+    "question": "Как открыть окно инструментов разработчика в Microsoft Edge для сбора HAR-логов?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_microsoft-edge.txt"
+  },
+  {
+    "question": "Какие действия необходимо выполнить для очистки сетевого журнала в Microsoft Edge?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_microsoft-edge.txt"
+  },
+  {
+    "question": "Какие флажки нужно установить перед воспроизведением проблемы для сбора HAR-логов?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_microsoft-edge.txt"
+  },
+  {
+    "question": "Как сохранить HAR-логи в Microsoft Edge после воспроизведения проблемы?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_microsoft-edge.txt"
+  },
+  {
+    "question": "Как сохранить консольные логи в Microsoft Edge?",
+    "article": "/developers_publishing-and-verifying-apps_collect-har-logs_microsoft-edge.txt"
+  },
+  {
+    "question": "Какие шаги необходимо выполнить для создания и подписания заявления на подключение монетизации для нерезидентов в RuStore?",
+    "article": "/developers_monetization_monetization-foreign-company.txt"
+  },
+  {
+    "question": "Что делать, если информация в поле «Торговое и юридическое название» указана некорректно?",
+    "article": "/developers_monetization_monetization-foreign-company.txt"
+  },
+  {
+    "question": "Какую информацию о компании необходимо указать при заполнении заявления на монетизацию?",
+    "article": "/developers_monetization_monetization-foreign-company.txt"
+  },
+  {
+    "question": "Какие данные нужно указать в контактной информации для пользователей?",
+    "article": "/developers_monetization_monetization-foreign-company.txt"
+  },
+  {
+    "question": "Какой размер комиссии взимает RuStore с платных приложений и покупок внутри приложений для нерезидентов?",
+    "article": "/developers_monetization_monetization-foreign-company.txt"
+  },
+  {
+    "question": "Какие шаги необходимо выполнить для создания нового аккаунта MyTracker из RuStore?",
+    "article": "/developers_tools_mytracker_quick-start_.txt"
+  },
+  {
+    "question": "Что нужно сделать после добавления сервиса в консоли RuStore для завершения регистрации аккаунта MyTracker?",
+    "article": "/developers_tools_mytracker_quick-start_.txt"
+  },
+  {
+    "question": "Как связать существующий аккаунт MyTracker с приложением RuStore?",
+    "article": "/developers_tools_mytracker_quick-start_.txt"
+  },
+  {
+    "question": "Где можно найти код интеграции для подключения существующего аккаунта MyTracker к приложению RuStore?",
+    "article": "/developers_tools_mytracker_quick-start_.txt"
+  },
+  {
+    "question": "Какие платформы SDK MyTracker поддерживает для интеграции с приложением?",
+    "article": "/developers_tools_mytracker_quick-start_.txt"
+  },
+  {
+    "question": "Какие форматы файлов допустимы для загрузки иконки приложения?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-icon-upload.txt"
+  },
+  {
+    "question": "Какой максимальный размер файла допускается для загрузки иконки приложения?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-icon-upload.txt"
+  },
+  {
+    "question": "Какой должен быть размер загружаемого изображения иконки?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-icon-upload.txt"
+  },
+  {
+    "question": "Какой URL используется для загрузки иконки приложения через API RuStore?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-icon-upload.txt"
+  },
+  {
+    "question": "Какие атрибуты обязательны при отправке запроса на загрузку иконки приложения?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-icon-upload.txt"
+  },
+  {
+    "question": "Какие условия необходимы для корректной работы SDK push-уведомлений в RuStore?",
+    "article": "/sdk_push-notifications_unreal_1-2-0.txt"
+  },
+  {
+    "question": "Как подключить SDK push-уведомлений RuStore в проект на Unreal Engine?",
+    "article": "/sdk_push-notifications_unreal_1-2-0.txt"
+  },
+  {
+    "question": "Какие параметры нужно установить в манифесте приложения для корректной работы push-уведомлений?",
+    "article": "/sdk_push-notifications_unreal_1-2-0.txt"
+  },
+  {
+    "question": "Как запросить разрешение на показ push-уведомлений в Android 13+?",
+    "article": "/sdk_push-notifications_unreal_1-2-0.txt"
+  },
+  {
+    "question": "Как инициализировать RuStore push SDK и какие параметры содержит структура FURuStorePushClientConfig?",
+    "article": "/sdk_push-notifications_unreal_1-2-0.txt"
+  },
+  {
+    "question": "Для чего нужны условия в Remote Config?",
+    "article": "/developers_tools_remote-config_parameters-and-conditions_conditions#atomic-conditions.txt"
+  },
+  {
+    "question": "Как создать новое условие в Remote Config?",
+    "article": "/developers_tools_remote-config_parameters-and-conditions_conditions#atomic-conditions.txt"
+  },
+  {
+    "question": "Какие типы атомарных условий существуют в Remote Config и какие операторы доступны для каждого типа?",
+    "article": "/developers_tools_remote-config_parameters-and-conditions_conditions#atomic-conditions.txt"
+  },
+  {
+    "question": "Как подтвердить создание нового условия в Remote Config?",
+    "article": "/developers_tools_remote-config_parameters-and-conditions_conditions#atomic-conditions.txt"
+  },
+  {
+    "question": "Что происходит при изменении или удалении условия в Remote Config?",
+    "article": "/developers_tools_remote-config_parameters-and-conditions_conditions#atomic-conditions.txt"
+  },
+  {
+    "question": "Какой максимальный размер файла допускается при загрузке APK-файла в RuStore?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload_file-upload-apk.txt"
+  },
+  {
+    "question": "Какие атрибуты необходимо указать в запросе при загрузке APK-файла?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload_file-upload-apk.txt"
+  },
+  {
+    "question": "Какой обязательный параметр был добавлен в метод загрузки APK-файлов в обновлении 20 июля 2023 года?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload_file-upload-apk.txt"
+  },
+  {
+    "question": "Сколько APK-файлов можно загрузить одновременно?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload_file-upload-apk.txt"
+  },
+  {
+    "question": "Что означает параметр isMainApk и какие значения он может принимать?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload_file-upload-apk.txt"
+  },
+  {
+    "question": "Как зарегистрироваться и настроить учётную запись Tracer?",
+    "article": "/developers_tools_app-tracer_android_start_quick-start.txt"
+  },
+  {
+    "question": "Как подключить зависимости Tracer к проекту в файле `settings.gradle`?",
+    "article": "/developers_tools_app-tracer_android_start_quick-start.txt"
+  },
+  {
+    "question": "Какие плагины можно добавить в `build.gradle` для Tracer?",
+    "article": "/developers_tools_app-tracer_android_start_quick-start.txt"
+  },
+  {
+    "question": "Как реализовать интерфейс `HasTracerConfiguration` в классе `Application`?",
+    "article": "/developers_tools_app-tracer_android_start_quick-start.txt"
+  },
+  {
+    "question": "Какие опции доступны для конфигурации в `CoreTracerConfiguration.Builder`?",
+    "article": "/developers_tools_app-tracer_android_start_quick-start.txt"
+  },
+  {
+    "question": "Какие параметры являются обязательными в запросе на определение почтового индекса?",
+    "article": "/sdk_rustore-geo_additional-services_search-for-a-zip-code.txt"
+  },
+  {
+    "question": "Какие поля можно выбрать для отображения в ответе на запрос определения почтового индекса?",
+    "article": "/sdk_rustore-geo_additional-services_search-for-a-zip-code.txt"
+  },
+  {
+    "question": "Какой формат имеет обязательный параметр api_key в запросе на определение почтового индекса?",
+    "article": "/sdk_rustore-geo_additional-services_search-for-a-zip-code.txt"
+  },
+  {
+    "question": "Какие результаты возвращает поле \"results\" в ответе на запрос определения почтового индекса?",
+    "article": "/sdk_rustore-geo_additional-services_search-for-a-zip-code.txt"
+  },
+  {
+    "question": "Какая информация содержится в поле \"postoffice\" в ответе на запрос определения почтового индекса?",
+    "article": "/sdk_rustore-geo_additional-services_search-for-a-zip-code.txt"
+  },
+  {
+    "question": "Что такое подписка в RuStore и как она работает?",
+    "article": "/users_purchases-and-returns_subscribe.txt"
+  },
+  {
+    "question": "Какие шаги нужно выполнить, чтобы оформить подписку в приложении из RuStore?",
+    "article": "/users_purchases-and-returns_subscribe.txt"
+  },
+  {
+    "question": "Какие действия необходимо предпринять после открытия приложения для оформления подписки?",
+    "article": "/users_purchases-and-returns_subscribe.txt"
+  },
+  {
+    "question": "Какой временной интервал использует RuStore для списания регулярных платежей?",
+    "article": "/users_purchases-and-returns_subscribe.txt"
+  },
+  {
+    "question": "Как выбрать способ оплаты подписки в RuStore?",
+    "article": "/users_purchases-and-returns_subscribe.txt"
+  },
+  {
+    "question": "Как найти приложение в RuStore?",
+    "article": "/users_app-management.txt"
+  },
+  {
+    "question": "Как установить приложение из RuStore?",
+    "article": "/users_app-management.txt"
+  },
+  {
+    "question": "Куда RuStore скачивает приложения?",
+    "article": "/users_app-management.txt"
+  },
+  {
+    "question": "Как обновить приложения в RuStore?",
+    "article": "/users_app-management.txt"
+  },
+  {
+    "question": "Как настроить автообновление приложений в RuStore?",
+    "article": "/users_app-management.txt"
+  },
+  {
+    "question": "Какие требования предъявляются к работоспособности приложений перед публикацией в RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_requirement-apps.txt"
+  },
+  {
+    "question": "Какие типы контента запрещены в приложении, его карточке и пользовательском контенте?",
+    "article": "/developers_publishing-and-verifying-apps_requirement-apps.txt"
+  },
+  {
+    "question": "Какие меры безопасности и защиты прав пользователей должны быть соблюдены в приложении?",
+    "article": "/developers_publishing-and-verifying-apps_requirement-apps.txt"
+  },
+  {
+    "question": "Какие требования предъявляются к конфиденциальности и данным устройства?",
+    "article": "/developers_publishing-and-verifying-apps_requirement-apps.txt"
+  },
+  {
+    "question": "Какие рекомендации и ограничения существуют для названия, описания, иконки и скриншотов приложения?",
+    "article": "/developers_publishing-and-verifying-apps_requirement-apps.txt"
+  },
+  {
+    "question": "Что такое RuStore, и как он работает?",
+    "article": "/users_authorization_.txt"
+  },
+  {
+    "question": "Как войти с аккаунтом VK ID?",
+    "article": "/users_authorization_.txt"
+  },
+  {
+    "question": "Как авторизоваться через Сбер ID?",
+    "article": "/users_authorization_.txt"
+  },
+  {
+    "question": "Как выйти из аккаунта в RuStore?",
+    "article": "/users_authorization_.txt"
+  },
+  {
+    "question": "Что можно делать без авторизации?",
+    "article": "/users_authorization_.txt"
+  },
+  {
+    "question": "Как исправить ошибку «Application is not verified yet»?",
+    "article": "/sdk_payments_payment-issues-faq.txt"
+  },
+  {
+    "question": "Что означает ошибка AuthTokenException?",
+    "article": "/sdk_payments_payment-issues-faq.txt"
+  },
+  {
+    "question": "Как исправить ошибку Application signature not correct?",
+    "article": "/sdk_payments_payment-issues-faq.txt"
+  },
+  {
+    "question": "Как исправить ошибку «Созданная ранее покупка продукта \"...\" в количестве ... на сумму ... рублей оплачивается в другой сессии»?",
+    "article": "/sdk_payments_payment-issues-faq.txt"
+  },
+  {
+    "question": "Как провести серверную валидацию покупки?",
+    "article": "/sdk_payments_payment-issues-faq.txt"
+  },
+  {
+    "question": "Какие условия должны быть выполнены для работы платежей в RuStore?",
+    "article": "/sdk_payments_unity_5-0-2.txt"
+  },
+  {
+    "question": "Как установить и инициализировать RuStore Billing SDK в проекте?",
+    "article": "/sdk_payments_unity_5-0-2.txt"
+  },
+  {
+    "question": "Как получить список продуктов с использованием RuStore SDK?",
+    "article": "/sdk_payments_unity_5-0-2.txt"
+  },
+  {
+    "question": "Какие методы используются для обработки незавершённых платежей?",
+    "article": "/sdk_payments_unity_5-0-2.txt"
+  },
+  {
+    "question": "Какие ошибки могут возникнуть при работе с RuStore SDK и как их обрабатывать?",
+    "article": "/sdk_payments_unity_5-0-2.txt"
+  },
+  {
+    "question": "Какие типы обновлений поддерживает RuStore In-app updates SDK?",
+    "article": "/sdk_updates_react_6-0-0.txt"
+  },
+  {
+    "question": "Какие условия необходимы для корректной работы RuStore In-app updates SDK?",
+    "article": "/sdk_updates_react_6-0-0.txt"
+  },
+  {
+    "question": "Как выполнить инициализацию RuStore In-app updates SDK?",
+    "article": "/sdk_updates_react_6-0-0.txt"
+  },
+  {
+    "question": "Какие статусы может иметь параметр updateAvailability при проверке наличия обновлений?",
+    "article": "/sdk_updates_react_6-0-0.txt"
+  },
+  {
+    "question": "Какие ошибки могут возникнуть при скачивании и установке обновлений с помощью RuStore In-app updates SDK?",
+    "article": "/sdk_updates_react_6-0-0.txt"
+  },
+  {
+    "question": "Каковы ключевые особенности SDK RuStore Remote Config для Godot Engine?",
+    "article": "/developers_tools_remote-config_sdk_godot_1-0-0.txt"
+  },
+  {
+    "question": "Какие шаги нужно выполнить для подключения плагина Remote Config в проект на Godot Engine 4.2.1?",
+    "article": "/developers_tools_remote-config_sdk_godot_1-0-0.txt"
+  },
+  {
+    "question": "Как инициализировать RemoteConfigClient для SDK RuStore в Godot Engine?",
+    "article": "/developers_tools_remote-config_sdk_godot_1-0-0.txt"
+  },
+  {
+    "question": "Какие значения может принимать параметр UpdateBehaviour и что они означают?",
+    "article": "/developers_tools_remote-config_sdk_godot_1-0-0.txt"
+  },
+  {
+    "question": "Какие обратные вызовы поддерживает SDK RuStore и какие события они отражают?",
+    "article": "/developers_tools_remote-config_sdk_godot_1-0-0.txt"
+  },
+  {
+    "question": "Какие предварительные шаги необходимо выполнить перед включением отправки уведомлений?",
+    "article": "/developers_monetization_payment-callback_enable-notifications.txt"
+  },
+  {
+    "question": "Как указать URL-адрес для приёма уведомлений в RuStore Консоли?",
+    "article": "/developers_monetization_payment-callback_enable-notifications.txt"
+  },
+  {
+    "question": "Как протестировать конфигурацию сервера перед включением отправки уведомлений?",
+    "article": "/developers_monetization_payment-callback_enable-notifications.txt"
+  },
+  {
+    "question": "Какие возможные ошибки могут возникнуть при тестировании отправки уведомлений и как их исправить?",
+    "article": "/developers_monetization_payment-callback_enable-notifications.txt"
+  },
+  {
+    "question": "В каких ситуациях изменяется статус платежа, и какие статусы возможны?",
+    "article": "/developers_monetization_payment-callback_enable-notifications.txt"
+  },
+  {
+    "question": "Как включить тестовый режим для тестирования платежей в RuStore Консоль?",
+    "article": "/developers_monetization_sandbox_testing.txt"
+  },
+  {
+    "question": "Как узнать VK ID в RuStore Консоль и войти с аккаунтом VK ID в мобильное приложение RuStore?",
+    "article": "/developers_monetization_sandbox_testing.txt"
+  },
+  {
+    "question": "Какие тестовые банковские карты нужно использовать для тестирования платежей?",
+    "article": "/developers_monetization_sandbox_testing.txt"
+  },
+  {
+    "question": "Как просмотреть историю тестовых платежей в RuStore Консоль?",
+    "article": "/developers_monetization_sandbox_testing.txt"
+  },
+  {
+    "question": "Какие действия можно выполнить на вкладке «История платежей» в RuStore Консоль?",
+    "article": "/developers_monetization_sandbox_testing.txt"
+  },
+  {
+    "question": "Что представляет собой блок «Безопасность данных пользователя» в консоли RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_declare-app-permissions_how-to-declare-permissions.txt"
+  },
+  {
+    "question": "В каких случаях отображается раздел «Чувствительные разрешения»?",
+    "article": "/developers_publishing-and-verifying-apps_declare-app-permissions_how-to-declare-permissions.txt"
+  },
+  {
+    "question": "Что необходимо указать в поле «Обоснование» для чувствительных разрешений?",
+    "article": "/developers_publishing-and-verifying-apps_declare-app-permissions_how-to-declare-permissions.txt"
+  },
+  {
+    "question": "Какие данные необходимо отмечать в разделе «Категории и типы данных»?",
+    "article": "/developers_publishing-and-verifying-apps_declare-app-permissions_how-to-declare-permissions.txt"
+  },
+  {
+    "question": "Что происходит после отправки информации о версии приложения на модерацию в RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_declare-app-permissions_how-to-declare-permissions.txt"
+  },
+  {
+    "question": "Какой метод был помечен как deprecated в версии SDK 0.1.3?",
+    "article": "/sdk_reviews-ratings_kotlin-java_history.txt"
+  },
+  {
+    "question": "Какие изменения были внесены в версии SDK 0.1.5 для улучшения безопасности?",
+    "article": "/sdk_reviews-ratings_kotlin-java_history.txt"
+  },
+  {
+    "question": "В какой версии SDK были приведены к единому виду пакеты классов ru.rustore.*?",
+    "article": "/sdk_reviews-ratings_kotlin-java_history.txt"
+  },
+  {
+    "question": "В каких версиях SDK были только внутренние обновления без дополнительных изменений?",
+    "article": "/sdk_reviews-ratings_kotlin-java_history.txt"
+  },
+  {
+    "question": "Какой метод был исправлен в версии SDK 0.1.6 для Task API?",
+    "article": "/sdk_reviews-ratings_kotlin-java_history.txt"
+  },
+  {
+    "question": "Какие виды монетизации приложений доступны в RuStore?",
+    "article": "/guides_payments.txt"
+  },
+  {
+    "question": "Что нужно сделать для начала работы с платежами в RuStore?",
+    "article": "/guides_payments.txt"
+  },
+  {
+    "question": "Как изменить цену товаров и подписок в приложении?",
+    "article": "/guides_payments.txt"
+  },
+  {
+    "question": "Какие возможности предоставляет интеграция RuStore SDK?",
+    "article": "/guides_payments.txt"
+  },
+  {
+    "question": "Какие методы API доступны для работы с платежами и подписками в RuStore?",
+    "article": "/guides_payments.txt"
+  },
+  {
+    "question": "Что нового добавлено в версии SDK 6.0.0?",
+    "article": "/sdk_payments_kotlin-java_history.txt"
+  },
+  {
+    "question": "Какие изменения были внесены в версии SDK 5.0.0?",
+    "article": "/sdk_payments_kotlin-java_history.txt"
+  },
+  {
+    "question": "В какой версии SDK была добавлена функциональность тестирования платежей (sandbox)?",
+    "article": "/sdk_payments_kotlin-java_history.txt"
+  },
+  {
+    "question": "Какие изменения внесены в версии SDK 2.1.0 в отношении моделей ответов?",
+    "article": "/sdk_payments_kotlin-java_history.txt"
+  },
+  {
+    "question": "Какие проблемы были исправлены в версии SDK 2.1.2?",
+    "article": "/sdk_payments_kotlin-java_history.txt"
+  },
+  {
+    "question": "Что такое сервис оптимизации маршрута и какие виды графов он поддерживает для расчета?",
+    "article": "/sdk_rustore-geo_routing-services_route-optimization.txt"
+  },
+  {
+    "question": "Какой формат и обязательные параметры должны быть в запросе для сервиса оптимизации маршрута?",
+    "article": "/sdk_rustore-geo_routing-services_route-optimization.txt"
+  },
+  {
+    "question": "Какие типы транспорта могут быть использованы для построения маршрута и как задать тип транспорта в запросе?",
+    "article": "/sdk_rustore-geo_routing-services_route-optimization.txt"
+  },
+  {
+    "question": "Как выглядит пример ответа на запрос оптимизации маршрута и какие поля он содержит?",
+    "article": "/sdk_rustore-geo_routing-services_route-optimization.txt"
+  },
+  {
+    "question": "Какой ключ необходимо передать в запросе, чтобы получить доступ к сервису оптимизации маршрута?",
+    "article": "/sdk_rustore-geo_routing-services_route-optimization.txt"
+  },
+  {
+    "question": "Где на Android устройстве хранятся скачанные приложения из RuStore?",
+    "article": "/users_app-management_where-downloads-apps.txt"
+  },
+  {
+    "question": "Как называется папка, где RuStore хранит скачанные приложения на Android?",
+    "article": "/users_app-management_where-downloads-apps.txt"
+  },
+  {
+    "question": "Какие папки находятся внутри папки «Android» для хранения данных скачанных приложений из RuStore?",
+    "article": "/users_app-management_where-downloads-apps.txt"
+  },
+  {
+    "question": "Для чего используется папка «Data» внутри папки «Android»?",
+    "article": "/users_app-management_where-downloads-apps.txt"
+  },
+  {
+    "question": "Отображаются ли apk-файлы приложений в папках «Data» и «Obb»?",
+    "article": "/users_app-management_where-downloads-apps.txt"
+  },
+  {
+    "question": "Как скачать актуальную версию сборки RuStore для установки на ТВ?",
+    "article": "/users_start_install-on-tv_install-apk-on-tv.txt"
+  },
+  {
+    "question": "Как переместить скачанный APK-файл на флешку или устройство Android?",
+    "article": "/users_start_install-on-tv_install-apk-on-tv.txt"
+  },
+  {
+    "question": "Что делать, если необходимо отформатировать флешку перед установкой сборки на ТВ?",
+    "article": "/users_start_install-on-tv_install-apk-on-tv.txt"
+  },
+  {
+    "question": "Как открыть флешку на телевизоре для просмотра файлов?",
+    "article": "/users_start_install-on-tv_install-apk-on-tv.txt"
+  },
+  {
+    "question": "Как запустить RuStore после установки на ТВ?",
+    "article": "/users_start_install-on-tv_install-apk-on-tv.txt"
+  },
+  {
+    "question": "Как выбрать тип приложения при добавлении в систему RuStore Консоль?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app.txt"
+  },
+  {
+    "question": "Какая комиссия взымается RuStore с дохода разработчика платных приложений?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app.txt"
+  },
+  {
+    "question": "Могу ли я изменять тип приложения (бесплатное или платное) после его создания?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app.txt"
+  },
+  {
+    "question": "Какие шаги нужно предпринять для изменения цены приложения?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app.txt"
+  },
+  {
+    "question": "Какие типы приложений для ТВ доступны в RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_paid-app.txt"
+  },
+  {
+    "question": "Как протестировать варианты эксперимента перед его запуском в Remote Config?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-actions.txt"
+  },
+  {
+    "question": "В каком статусе должен быть эксперимент для его тестирования?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-actions.txt"
+  },
+  {
+    "question": "Какие действия нужно выполнить, чтобы скопировать эксперимент в Remote Config?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-actions.txt"
+  },
+  {
+    "question": "В каком статусе можно остановить эксперимент в Remote Config?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-actions.txt"
+  },
+  {
+    "question": "В каких статусах можно удалить эксперимент в Remote Config?",
+    "article": "/developers_tools_remote-config_ab-testing_experiment-actions.txt"
+  },
+  {
+    "question": "Какие способы обновлений поддерживает RuStore In-app updates SDK?",
+    "article": "/sdk_updates_flutter_1-0-0.txt"
+  },
+  {
+    "question": "Какие условия необходимы для корректной работы RuStore In-app updates SDK?",
+    "article": "/sdk_updates_flutter_1-0-0.txt"
+  },
+  {
+    "question": "Какой командой можно подключить RuStore In-app updates SDK в проект Flutter?",
+    "article": "/sdk_updates_flutter_1-0-0.txt"
+  },
+  {
+    "question": "Какие статусы может содержать метод `installStatus` при проверке состояния скачивания обновления?",
+    "article": "/sdk_updates_flutter_1-0-0.txt"
+  },
+  {
+    "question": "Какие ошибки могут возникнуть при скачивании и установке обновлений через RuStore In-app updates SDK?",
+    "article": "/sdk_updates_flutter_1-0-0.txt"
+  },
+  {
+    "question": "Какие типы файлов можно загрузить для публикации приложений с помощью методов API RuStore?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload.txt"
+  },
+  {
+    "question": "Какие действия необходимо предпринять, если в загруженном APK/AAB-файле найдены новые чувствительные разрешения?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload.txt"
+  },
+  {
+    "question": "Что следует сделать, если в загруженном APK/AAB-файле найдены запрещённые разрешения?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload.txt"
+  },
+  {
+    "question": "Какие коды ошибок могут возникнуть при обработке разрешений в загружаемых APK/AAB-файлах, и что они означают?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload.txt"
+  },
+  {
+    "question": "К чему может привести наличие новых чувствительных разрешений в загружаемых файлах?",
+    "article": "/work-with-rustore-api_api-upload-publication-app_apk-file-upload.txt"
+  },
+  {
+    "question": "Как работает бесплатный период подписки для пользователя?",
+    "article": "/developers_faq_payments-faq.txt"
+  },
+  {
+    "question": "Почему не удаётся подписать заявление на монетизацию?",
+    "article": "/developers_faq_payments-faq.txt"
+  },
+  {
+    "question": "Может ли самозанятый сменить тип аккаунта и получать выплаты как юрлицо?",
+    "article": "/developers_faq_payments-faq.txt"
+  },
+  {
+    "question": "Могут ли пользователи приложения запросить возвраты?",
+    "article": "/developers_faq_payments-faq.txt"
+  },
+  {
+    "question": "Можно ли отменить подписку с помощью SDK?",
+    "article": "/developers_faq_payments-faq.txt"
+  },
+  {
+    "question": "Что представляет собой объект LngLat и на каком стандарте он основан?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_geometry.txt"
+  },
+  {
+    "question": "Какие параметры использует метод toBounds(radius) для объекта LngLat?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_geometry.txt"
+  },
+  {
+    "question": "Какие методы доступны для работы с объектом LngLatBounds?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_geometry.txt"
+  },
+  {
+    "question": "Какой метод преобразует массив из двух чисел или объект в LngLat?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_geometry.txt"
+  },
+  {
+    "question": "Какие параметры принимает метод fromLngLat для объекта MercatorCoordinate?",
+    "article": "/sdk_rustore-geo_map-display-services_interactive-map_geometry.txt"
+  },
+  {
+    "question": "Какие условия должны быть соблюдены для корректной работы RuStore In-app Review SDK?",
+    "article": "/sdk_reviews-ratings_defold_2-0-0.txt"
+  },
+  {
+    "question": "Как правильно интегрировать процесс запроса оценки и отзыва о приложении в RuStore?",
+    "article": "/sdk_reviews-ratings_defold_2-0-0.txt"
+  },
+  {
+    "question": "Какие события необходимо подписать перед использованием методов request_review_flow и launch_review_flow?",
+    "article": "/sdk_reviews-ratings_defold_2-0-0.txt"
+  },
+  {
+    "question": "Какие возможные ошибки могут возникнуть при использовании RuStore In-app Review SDK и как их обработать?",
+    "article": "/sdk_reviews-ratings_defold_2-0-0.txt"
+  },
+  {
+    "question": "Что рекомендуется делать после завершения формы оценки вне зависимости от результата?",
+    "article": "/sdk_reviews-ratings_defold_2-0-0.txt"
+  },
+  {
+    "question": "Как установить приложение через RuStore на ТВ?",
+    "article": "/users_start_install-on-tv_tv-app-interface.txt"
+  },
+  {
+    "question": "Как удалить приложение через RuStore на ТВ?",
+    "article": "/users_start_install-on-tv_tv-app-interface.txt"
+  },
+  {
+    "question": "Как включить автообновление приложений в RuStore на ТВ?",
+    "article": "/users_start_install-on-tv_tv-app-interface.txt"
+  },
+  {
+    "question": "Что делать, если возникли ошибки при работе с приложением RuStore для ТВ?",
+    "article": "/users_start_install-on-tv_tv-app-interface.txt"
+  },
+  {
+    "question": "Как обновить приложение RuStore на ТВ?",
+    "article": "/users_start_install-on-tv_tv-app-interface.txt"
+  },
+  {
+    "question": "Какие версии SDK перечислены в статье \"История обновлений\"?",
+    "article": "/sdk_updates_flutter_history.txt"
+  },
+  {
+    "question": "Какая версия SDK является первой в списке внутренних обновлений?",
+    "article": "/sdk_updates_flutter_history.txt"
+  },
+  {
+    "question": "В какой версии SDK был реализован функционал обновлений?",
+    "article": "/sdk_updates_flutter_history.txt"
+  },
+  {
+    "question": "Какое обновление представлено в версии SDK 3.0.0?",
+    "article": "/sdk_updates_flutter_history.txt"
+  },
+  {
+    "question": "Какое обновление представлено в версии SDK 0.0.3?",
+    "article": "/sdk_updates_flutter_history.txt"
+  },
+  {
+    "question": "Как опубликовать приложение в RuStore после регистрации в системе RuStore Консоль?",
+    "article": "/developers_publishing-and-verifying-apps_.txt"
+  },
+  {
+    "question": "Сколько стоит публикация приложений в RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_.txt"
+  },
+  {
+    "question": "Можно ли в RuStore публиковать как бесплатные, так и платные приложения?",
+    "article": "/developers_publishing-and-verifying-apps_.txt"
+  },
+  {
+    "question": "В какой раздел документации относится публикация и проверка приложений?",
+    "article": "/developers_publishing-and-verifying-apps_.txt"
+  },
+  {
+    "question": "Какие языки поддерживает документация RuStore?",
+    "article": "/developers_publishing-and-verifying-apps_.txt"
+  }
+]

@@ -1,0 +1,5 @@
+Добавлены асинхронные варианты Blueprint-методов вместо подписок на события.
+Добавлена функциональность изменения темы (тёмная/светлая).
+В структуре FURuStoreProduct значение по умолчанию для поля productType изменено с CONSUMABLE на NON_CONSUMABLE.
+RuStoreBilling_UPL_Android.xml больше не добавляет атрибут android:exported к GameActivity и SplashActivity.
+Багфиксы.

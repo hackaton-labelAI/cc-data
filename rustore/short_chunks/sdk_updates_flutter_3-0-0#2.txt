@@ -1,0 +1,4 @@
+Вызов метода completeUpdateFlexibleRustoreUpdateClient.completeUpdateFlexible().catchError((err) {  print("completeUpdateFlexible err ${err}");});Обновление с UI от RuStore:Parsed Image TextПользователю будет показан UI-диалог завершения обновления.
+
+
+В случае успешного обновления приложение будет перезапущено.

@@ -1,0 +1,1 @@
+Callback, добавленные к Task, выполняются на главном потоке приложения. Если callback необходимо выполнить в другом потоке, передайте свой Executor в метод добавления callback.Добавление executor через сопроцесс (см. ниже).val task: Task<ProductsResponse> = RuStoreBillingClient.products.getProducts()task.addOnSuccessListener(Dispatchers.IO.asExecutor()) {    // Process success}

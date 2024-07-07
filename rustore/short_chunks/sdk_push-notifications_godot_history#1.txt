@@ -1,0 +1,5 @@
+Версия SDK push 2.+.
+Пуш теперь описывается классами RuStoreRemoteMessage.gd и RuStoreNotification.gd вместо Dictionary.
+В класс RuStoreError добавлено поле name, которое содержит simpleName класса ошибки.
+Добавлены методы set_error_handling и get_error_handling для автоматической обработки ошибок.
+Исправлена ошибка сериализации Uri.

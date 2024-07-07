@@ -1,0 +1,1 @@
+ScrollZoomHandler позволяет пользователю масштабировать карту с помощью прокрутки.src/ui/handler/scroll_zoom.jsМетодыParsed Table Text

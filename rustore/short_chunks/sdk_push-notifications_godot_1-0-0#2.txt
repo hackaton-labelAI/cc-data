@@ -1,0 +1,5 @@
+Если вы хотите логировать события библиотеки push-уведомлений, при инициализации плагина укажите LOG_MODE равным ERuStoreLogMode.Item.CUSTOM и единожды выполните подписку на события:on_log_verbose;
+on_log_debug;
+on_log_info;
+on_log_warn;
+on_log_error.События on_log_*cfunc _ready:    # Инициализация _push_client     _push_client.on_log_verbose.connect(_on_log_verbose)    _push_client.on_log_debug.connect(_on_log_debug)    _push_client.on_log_info.connect(_on_log_info)    _push_client.on_log_warn.connect(_on_log_warn)    _push_client.on_log_error.connect(_on_log_error) func _on_log_verbose(message: String):    pass func _on_log_debug(message: String):    pass     func _on_log_info(message: String):    pass     func _on_log_warn(message: String):    pass     func _on_log_error(message: String):    passmessage — сообщение лога.

@@ -1,0 +1,1 @@
+Вызов метода Init для URuStoreRemoteConfigClientEventListener привязывает объект к корню сцены. Если дальнейшая работа с объектом больше не планируется, выполните метод Dispose для освобождения памяти. Вызов Dispose отвяжет объект от корня и безопасно завершит все отправленные запросы.URuStoreRemoteConfigClientEventListener::Instance()->Dispose();Parsed Image Text

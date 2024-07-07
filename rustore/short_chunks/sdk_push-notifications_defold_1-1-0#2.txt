@@ -1,0 +1,1 @@
+Для получения push-токенов выполните подписку на событие new_token с помощью метода set_on_token:local function new_token(self, token, error)    if token then       print(token)    else       print(error.error)    endendlocal function push_android()    ruStorePush.set_on_token(new_token)endпредупреждениеЕсли у пользователя нет push-токена, метод создаст и вернёт новый push-токен.

@@ -1,0 +1,10 @@
+Сегмент — это группа пользователей, которых вы выбираете по определенным параметрам.
+Например, пользователи, которые приносят наибольший доход, или пользователи со старой версией Android.
+Подробности о сегментах — в документации MyTracker.Чтобы начать работу с сегментами, используйте метод set_client_id_callback с параметрами CLIENT_ID_VALUE и CLIENT_ID_TYPE:Вызов метода set_client_id_callbacklocal CLIENT_ID_TYPE = ruStorePush.CLIENT_AID_NOT_AVAILABLElocal CLIENT_ID_VALUE = ""ruStorePush.set_client_id_callback(function(self)	return CLIENT_ID_VALUE, CLIENT_ID_TYPEend)CLIENT_ID_TYPE — тип идентификатора:
+
+CLIENT_AID_NOT_AVAILABLE — рекламный идентификатор не используется.
+CLIENT_GAID — рекламный идентификатор Google;
+CLIENT_OAID — рекламный идентификатор Huawei.
+
+
+CLIENT_ID_VALUE — значение идентификатора.

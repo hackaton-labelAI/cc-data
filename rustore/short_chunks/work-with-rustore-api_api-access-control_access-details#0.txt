@@ -1,0 +1,1 @@
+Метод позволяет получить список всех выданных доступов по приложению.Параметры взаимодействияGET https://public-api.rustore.ru/public/v1/application/{packageName}/developerParsed Table Text

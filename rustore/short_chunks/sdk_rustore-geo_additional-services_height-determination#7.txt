@@ -1,0 +1,1 @@
+curl -X POST   -H  "Content-type: application/json"   -H  "Accept: application/json"   -d  '{"locations":[{"lat":0.0,"lon":0.0}, {"lat":0.1,"lon":0.1}]}'   "https://geo.rustore.ru/api/elevation?api_key=<YOUR_API_KEY>"

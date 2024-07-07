@@ -1,0 +1,1 @@
+Parsed Table TextЕсли по запросу ничего не найдено, ответ будет выглядеть следующим образом.{"status_code":400,"status":"Bad Request"}

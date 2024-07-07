@@ -1,0 +1,1 @@
+к сведениюТребуется наличие заголовка Authorization: Authorization: Bearer $ss_token.

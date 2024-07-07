@@ -1,0 +1,1 @@
+{    "request": "/v1/timezone?api_key&q=55.479205,37.32733",    "results": [{        "tzid": "Europe/Moscow",        "utc_delta": 10800    }]}

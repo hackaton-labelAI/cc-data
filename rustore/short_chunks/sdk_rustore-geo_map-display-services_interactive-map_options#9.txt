@@ -1,0 +1,1 @@
+Очищает cacheStorage в котором могут храниться кэш тайловsrc/index.jsПараметры:callback:function(error:object) — путь до RTL-плагина.Пример (см. ниже).mmrgl.clearStorage()

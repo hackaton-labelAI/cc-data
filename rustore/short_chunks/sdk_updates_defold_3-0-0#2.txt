@@ -1,0 +1,4 @@
+Вызов метода complete_update_silentrustoreappupdate.complete_update_silent()Обновление без UI от RuStore:UI-диалог завершения обновления не будет показан.
+
+
+В случае успешного обновления приложение будет закрыто.

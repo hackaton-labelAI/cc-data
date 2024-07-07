@@ -1,0 +1,4 @@
+Обновление без UI от RuStore:UI-диалог завершения обновления не будет показан.
+
+
+В случае успешного обновления приложение будет закрыто.Метод CompleteUpdate должен быть вызван с параметром SILENT:Вызов метода CompleteUpdateEURuStoreAppUpdateOptions appUpdateOptions = EURuStoreAppUpdateOptions::SILENT;requestId = CompleteUpdate(	appUpdateOptions,    [](long requestId, TSharedPtr<FURuStoreError, ESPMode::ThreadSafe> error) {        // Process error    });Parsed Image TextappUpdateOptions — тип процедуры завершения обновления:SILENT — обновление и закрытие приложения.Уведомление обратного вызова (callback) Failure возвращает структуру FURuStoreError с информацией об ошибке в параметре Error. Структура ошибки FURuStoreError описана в разделе Обработка ошибок.

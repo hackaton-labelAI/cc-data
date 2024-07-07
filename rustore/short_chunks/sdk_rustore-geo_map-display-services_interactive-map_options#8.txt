@@ -1,0 +1,1 @@
+Получаем статус RTL-плагина. Статус плагина может быть: unavailable (т. е. не запрошено или удалено), loading, loaded или error. Если статус loaded и плагин запрашивается снова, то будет выдана ошибка.src/index.jsПример (см. ниже).const pluginStatus = mmrgl.getRTLTextPluginStatus();

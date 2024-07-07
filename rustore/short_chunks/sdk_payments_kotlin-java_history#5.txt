@@ -1,0 +1,10 @@
+Удалён параметр language у методов:
+
+получение списка продуктов — getProducts;
+получение списка покупок — getPurchases;
+потребление продукта — confirmPurchase;
+отмена покупки — deletePurchase.
+
+
+
+Добавлено поле RuStoreBillingClient.isInitialized, возвращающее статус инициализации библиотеки.

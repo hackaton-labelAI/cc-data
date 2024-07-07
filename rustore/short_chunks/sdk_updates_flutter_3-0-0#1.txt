@@ -1,0 +1,20 @@
+RuStoreNotInstalledException — на устройстве пользователя не установлен RuStore;
+RuStoreOutdatedException — версия RuStore, установленная на устройстве пользователя, не поддерживает платежи;
+RuStoreUserUnauthorizedException — пользователь не авторизован в RuStore;
+RuStoreException — базовая ошибка RuStore, от которой наследуются остальные ошибки;
+RuStoreInstallException(public val code: Int) — ошибка скачивания и установки.
+
+ERROR_UNKNOWN(Int = 4001) — неизвестная ошибка.
+ERROR_DOWNLOAD(Int = 4002) — ошибка при скачивании.
+ERROR_BLOCKED(Int = 4003) — установка заблокированна системой.
+ERROR_INVALID_APK(Int = 4004) — некорректный APK обновления.
+ERROR_CONFLICT(Int = 4005) — конфликт с текущей версией приложения.
+ERROR_STORAGE(Int = 4006) — недостаточно памяти на устройстве.
+ERROR_INCOMPATIBLE(Int = 4007) — несовместимо с устройством.
+ERROR_APP_NOT_OWNED(Int = 4008) — приложение не куплено.
+ERROR_INTERNAL_ERROR(Int = 4009) — внутренняя ошибка.
+ERROR_ABORTED(Int = 4010) — пользователь отказался от установки обновления.
+ERROR_APK_NOT_FOUND(Int = 4011) — APK для запуска установки не найден.
+ERROR_EXTERNAL_SOURCE_DENIED(Int = 4012) — запуск обновления запрещён. Например, в первом методе вернулся ответ о том, что обновление недоступно, но пользователь вызывает второй метод.
+ERROR_ACTIVITY_SEND_INTENT(Int = 9901) — ошибка отправки intent на открытие активити.
+ERROR_ACTIVITY_UNKNOWN(Int = 9902) — неизвестная ошибка отрытия активити.

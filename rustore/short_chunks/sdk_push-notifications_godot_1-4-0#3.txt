@@ -1,0 +1,19 @@
+Скопируйте проекты плагина и приложения-примера из официального репозитория RuStore на GitFlic.
+
+
+Откройте в вашей IDE проект Android из папки godot_plugin_libraries.
+
+
+Поместите в папку godot_plugin_libraries / libs пакет godot-lib.xxx.yyy.template_release.aar, где xxx.yyy версия вашей редакции Godot Engine.
+
+
+Выполните сборку проекта командой gradle assemble.При успешном выполнении сборки в папке godot_example / android / plugins будут созданы файлы:RuStoreGodotPush.gdap;
+RuStoreGodotPush.aar;
+RuStoreGodotCore.gdap;
+RuStoreGodotCore.aar.предупреждениеОбратите особое внимание, что библиотеки плагинов должны быть собраны под вашу версию Godot Engine.Скопируйте содержимое папки godot_example / android / plugins в папку your_project / android / plugins.
+
+
+Скопируйте с заменой содержимое папки godot_example / android / build_example в папку godot_example / android / build.
+
+
+В пресете сборки Android в списке «Плагины» отметьте «Ru Store Godot Push» и «Ru Store Godot Core».

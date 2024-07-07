@@ -1,0 +1,2 @@
+Для простого отображения карты необходимо добавить JS & CSS файлы с SDK на страницу, а также добавить код инициализации карты, не забыв указать актуальный ключ доступа к API.Для инициализации необходимо указать требуемый стиль:light_style.json — mmr://api/styles/light_style.json;
+mapsme_style.json — mmr://api/styles/mapsme_style.json;main_style.json — mmr://api/styles/main_style.json.

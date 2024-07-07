@@ -1,0 +1,16 @@
+RuStoreNotInstalledException — на устройстве пользователя не установлен RuStore.
+
+
+RuStoreOutdatedException — версия RuStore, установленная на устройстве пользователя, не поддерживает push-уведомления.
+
+
+RuStoreUserUnauthorizedException — пользователь не авторизован в RuStore.
+
+
+RuStoreFeatureUnavailableException — RuStore не имеет разрешения на работу в фоне.
+
+
+RuStoreException — базовая ошибка RuStore, от которой наследуются остальные ошибки.По умолчанию в плагине включена нативная обработка ошибок, в случае возникновения ошибки выполняются эти действия:Вызовется соответствующий обработчик ошибки.
+
+
+Ошибка передаётся в метод resolveForPush нативного SDK. Это нужно, чтобы показать пользователю диалог с ошибкой.Метод resolveForPushfun RuStoreException.resolveForPush(context: Context)Чтобы отключить передачу ошибки в нативный SDK, вызовите функцию offNativeErrorHandling.Запрет нативной обработки ошибокRustorePushClient.offNativeErrorHandling();

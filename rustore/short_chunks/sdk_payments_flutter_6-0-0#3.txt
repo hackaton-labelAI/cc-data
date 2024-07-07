@@ -1,0 +1,1 @@
+Для подключения пакета платежей к проекту выполните следующую команду.flutter pub add flutter_rustore_billingЭта команда добавит строчку в файл pubspec.yaml.dependencies: flutter_rustore_billing: ^6.0.0

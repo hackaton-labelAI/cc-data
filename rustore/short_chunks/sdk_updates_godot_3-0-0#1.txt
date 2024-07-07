@@ -1,0 +1,4 @@
+Вызов метода complete_update_flexible_appUpdate_client.complete_update_flexible()Обновление с UI от RuStore:Parsed Image TextПользователю будет показан UI-диалог завершения обновления.
+
+
+В случае успешного обновления приложение будет перезапущено.

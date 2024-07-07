@@ -1,0 +1,4 @@
+Для получения уведомлений добавьте callback OnMessageReceiveListener в App-классе после инициализации RuStoreUniversalPushClient.
+Если уведомления отправляются через universal api, они дедублицируются на клиенте и callback получения уведомлений вызывается один раз.Если в объекте notification есть данные, RuStore SDK самостоятельно отображает уведомление.
+Если вы не хотите этого, используйте объект data, а notification оставьте пустым.
+Callback OnMessageReceiveListener вызывается в любом случае.Получить payload push-уведомления (Map<String, String>) можно из поля remoteMessage.data.RuStoreUniversalPushClient.setOnMessageReceiveListener { remoteMessage ->    // process message}

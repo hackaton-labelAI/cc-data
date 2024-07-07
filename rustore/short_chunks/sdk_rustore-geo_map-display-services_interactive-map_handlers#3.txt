@@ -1,0 +1,1 @@
+DragPanHandler позволяет пользователю перемещать карту, щелкая и перетаскивая курсор.src/ui/handler/shim/drag_pan.jsМетодыParsed Table Text

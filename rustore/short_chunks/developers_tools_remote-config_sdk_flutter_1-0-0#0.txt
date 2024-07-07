@@ -1,0 +1,2 @@
+UpdateBehaviour — это параметр, определяющий поведение SDK.
+При создании экземпляра RemoteConfigClientBuilder, по умолчанию используется значение UpdateBehaviour.Default с интервалом синхронизации 15 минут.Установить другое поведение SDK можно передав значение в метод create:enum PluginUpdateBehavior {  actualBehavior,  defaultBehavior,  snapshotBehavior,}Различия в значениях UpdateBehaviourParsed Table Text

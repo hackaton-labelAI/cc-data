@@ -1,0 +1,1 @@
+Проверяет поддержку браузером GL JSsrc/index.jsПример (см. ниже).if (!mmrgl.supported()) {  alert( 'Your browser does not support MMR GL' );}

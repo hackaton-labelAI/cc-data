@@ -1,0 +1,1 @@
+DragRotateHandler позволяет пользователю вращать карту, щелкая и перетаскивая курсор, удерживая правую кнопку мыши или клавишу CTRL.src/ui/handler/shim/drag_rotate.jsМетодыParsed Table Text

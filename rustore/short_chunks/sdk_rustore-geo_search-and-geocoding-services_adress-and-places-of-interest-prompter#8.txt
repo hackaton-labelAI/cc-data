@@ -1,0 +1,1 @@
+https://geo.rustore.ru/api/suggest?api_key=<YOUR_API_KEY>&limit=3&q=Москва%20Ленинградский%2039

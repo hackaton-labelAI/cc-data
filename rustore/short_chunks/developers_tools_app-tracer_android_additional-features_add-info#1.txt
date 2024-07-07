@@ -1,0 +1,12 @@
+Самую важную информацию о сбое предоставляет Tracer SDK, и вам не надо об этом беспокоиться:date — дата и время наступления события;
+board — Build.BOARD;
+brand — Build.BRAND;
+cpuABI — Build.SUPPORTED_ABIS;
+device — Build.DEVICE;
+display — Build.DISPLAY;
+manufacturer — Build.MANUFACTURER;
+model — Build.MODEL;
+osVersionSdkInt — Build.VERSION.SDK_INT;
+osVersionRelease — Build.VERSION.RELEASE;
+cpuCount — Runtime.getRuntime().availableProcessors();
+operatorName — имя оператора (если доступно).Добавить дополнительную информации к сбою можно в реализации HasTracerSystemInfo в своем приложении (см. ниже).class MyApplication : Application(), HasTracerSystemInfo {    override val tracerSystemInfo: Map<String, String>        get() = mapOf {            "foo" to  "bar" ,        }}Полезным примером такой информации может быть userId, build flavor или vendor, если сборка предназначена для предустановки.HasTracerSystemInfo.tracerSystemInfo запрашивается каждый раз при наступлении события CRASH и NON-FATAL. Также он будет вызван 1 раз на старте приложения на случай наступления ANR.

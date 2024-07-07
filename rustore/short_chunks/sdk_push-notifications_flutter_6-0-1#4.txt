@@ -1,0 +1,1 @@
+Для удаления push-уведомления добавьте callback RustorePushClient.onDeletedMessages().RustorePushClient.onDeletedMessages(() {      print( "deleted messages" );}, error: (err) {      print( "on message received error: ${err}" );});

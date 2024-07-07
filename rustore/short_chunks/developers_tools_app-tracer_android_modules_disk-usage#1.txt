@@ -1,0 +1,1 @@
+В вашем проекте: <project>/<app-module>/build.gradle.dependencies {    implementation  "ru.ok.tracer:tracer-disk-usage:0.2.7"}Более подробное описание зависимостей приведено на странице Быстрый старт.

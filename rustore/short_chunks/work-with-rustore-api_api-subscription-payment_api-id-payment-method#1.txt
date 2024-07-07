@@ -1,0 +1,1 @@
+GEThttps://public-api.rustore.ru/public/glike/subscription/{packageName}/{subscriptionId}/{subscriptionToken}Parsed Table Text

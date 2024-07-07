@@ -1,0 +1,1 @@
+Чтобы получить информацию из push-уведомления, добавьте callback RustorePushClient.onMessageReceived().RustorePushClient.onMessageReceived((value) {      print("on message received success: id=${value.messageId}, data=${value.data}, notification.body: ${value.notification?.body}");}, error: (err) {      print("on message received error: ${err}");});

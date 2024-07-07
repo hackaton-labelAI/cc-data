@@ -1,0 +1,2 @@
+Добавлен метод RuStoreBillingClient.purchases.getPurchaseInfo("purchaseId"), возвращающий информацию о покупке.
+Исправлена уязвимость Intent Redirection vulnerability, не позволяющая опубликовать приложение в Google Play.

@@ -1,0 +1,1 @@
+подсказкаПри получении любого события *_failure не рекомендуется самостоятельно отображать ошибку пользователю. Отображение ошибки может негативно повлиять на пользовательский опыт.Обработка json ошибкиfunction _on_failure(self, channel, value)    local data = json.decode(value)        local message = data.detailMessageenddetailMessage – описание ошибки.

@@ -1,0 +1,2 @@
+Версия SDK remoteconfig 1.1.0.
+Добавлено поле simpleName в JSON ошибок.

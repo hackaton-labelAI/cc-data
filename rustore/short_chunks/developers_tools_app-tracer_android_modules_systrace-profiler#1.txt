@@ -1,0 +1,1 @@
+В вашем <project>/<app-module>/build.gradle.dependencies {    implementation "ru.ok.tracer:tracer-profiler-systrace:0.2.7"}Более подробное описание зависимостей на странице «Быстрый старт».

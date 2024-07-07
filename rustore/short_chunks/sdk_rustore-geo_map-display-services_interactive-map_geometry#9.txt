@@ -1,0 +1,1 @@
+Parsed Table TextСм. пример ниже.var sw = new mmrgl.LngLat(-73.9876, 40.7661);var ne = new mmrgl.LngLat(-73.9397, 40.8002);var llb = new mmrgl.LngLatBounds(sw, ne);

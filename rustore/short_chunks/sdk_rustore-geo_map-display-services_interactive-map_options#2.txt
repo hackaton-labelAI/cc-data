@@ -1,0 +1,1 @@
+Начальный API URL, используемый для получения тайлов, стилей, спрайтов и глифов.src/index.jsПример (см. ниже).mmrgl.baseApiUrl = 'https://geo.rustore.ru/api';

@@ -1,0 +1,5 @@
+Для установки @geors/maps-sdk-js создайте токен на github.Перейдите в настройки пользователя.
+Найдите кнопку Developer settings в самом низу слева.
+Создайте Personal access token с доступом для чтения пакетов (read:packages).
+Создайте в корне проекта файл .npmrc.
+Добавьте в созданный файл две строчки.@geors:registry=https://npm.pkg.github.com//npm.pkg.github.com/:_authToken=ACCESS_TOKENЗамените ACCESS_TOKEN на ваш созданный.

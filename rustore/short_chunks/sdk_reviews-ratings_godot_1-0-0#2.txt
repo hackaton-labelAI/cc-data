@@ -1,0 +1,1 @@
+Для работы с оценками необходимо создать экземпляр RuStoreGodotReviewManager.Инициализацияvar _review_client: RuStoreGodotReviewManager = nullfunc _ready:    _review_client = RuStoreGodotReviewManager.get_instance()

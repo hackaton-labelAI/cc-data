@@ -1,0 +1,1 @@
+let geocoder = Geocoder(apiKey: "your apiKey")geocoder.geocode (    query: "Ленинградский проспект 39с79",    lang: "ru",    location: Coordinates(lng: 37.537892, lat: 55.796926)) {  result in    switch result {    case let.success(response):        print(response)    case let.failure(error):        print(error.localizedDescription )    }}

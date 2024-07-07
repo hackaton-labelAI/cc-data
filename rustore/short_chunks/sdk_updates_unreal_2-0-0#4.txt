@@ -1,0 +1,7 @@
+Скопируйте проекты плагина из официального репозитория RuStore на GitFlic.
+Откройте в вашей IDE проект Android из папки unreal_plugin_libraries.
+Выполните сборку проекта командой gradle assemble.При успешном выполнении сборки в папках unreal_example / Plugins / RuStoreAppUpdate / Source / RuStoreAppUpdate / ThirdParty / Android / libs и unreal_example / Plugins / RuStoreCore / Source / RuStoreCore / ThirdParty / Android / libs будут созданы файлы:RuStoreUnityAppUpdate.aar.
+RuStoreUnityCore.aar.Скопируйте содержимое папки unreal_example / Plugins в папку Plugins внутри своего проекта. Перезапустите Unreal Engine.
+В списке плагинов (Edit > Plugins > Project > Mobile) отметьте плагины RuStoreAppUpdate и RuStoreCore.
+В файле YourProject.Build.cs в списке PublicDependencyModuleNames подключите модули модули RuStoreCore и RuStoreAppUpdate.
+В настройках проекта (Edit > Project Settings > Android) установите параметр Minimum SDK Version на уровень не ниже 24 и параметр Target SDK Version — не ниже 31.

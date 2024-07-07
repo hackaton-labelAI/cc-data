@@ -1,0 +1,37 @@
+KotlinJava
+
+RuStoreNotInstalledException — на устройстве пользователя не установлен RuStore.
+
+
+RuStoreOutdatedException — версия RuStore, установленная на устройстве пользователя, не поддерживает push-уведомления.
+
+
+RuStoreUserUnauthorizedException — пользователь не авторизован в RuStore.
+
+
+RuStoreFeatureUnavailableException — RuStore не имеет разрешения на работу в фоне.
+
+
+RuStoreException — базовая ошибка RuStore, от которой наследуются остальные ошибки.
+
+
+Если вы хотите использовать UI-интерфейс для работы с ошибками, используйте метод resolveForPush.
+Пример реализации resolveForPushfun RuStoreException.resolveForPush(context: Context)
+
+RuStoreNotInstalledException — на устройстве пользователя не установлен RuStore.
+
+
+RuStoreOutdatedException — версия RuStore, установленная на устройстве пользователя, не поддерживает push-уведомления.
+
+
+RuStoreUserUnauthorizedException — пользователь не авторизован в RuStore.
+
+
+RuStoreFeatureUnavailableException — RuStore не имеет разрешения на работу в фоне.
+
+
+RuStoreException — базовая ошибка RuStore, от которой наследуются остальные ошибки.
+
+
+Если вы хотите использовать UI-интерфейс для работы с ошибками, используйте метод resolveForPush().
+Пример реализации resolveForPushpublic void PushRuStoreExceptionExtKt.resolveForPush(context);

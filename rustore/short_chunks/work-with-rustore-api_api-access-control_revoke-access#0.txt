@@ -1,0 +1,1 @@
+Метод позволяет отозвать доступ у пользователя.Параметры взаимодействияDELETE https://public-api.rustore.ru/public/v1/application/{packageName}/developer/{devVkId}/role/{roleName}Parsed Table TextпримечаниеПодробнее о возможностях каждой роли можно почитать тут.

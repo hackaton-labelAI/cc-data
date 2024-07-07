@@ -1,0 +1,1 @@
+curl -X POST    -H "Content-type: application/json"    -H "Accept: application/json"    -d '{"locations":[{"lon":49.22088,"lat":55.77055},{"lon":49.21999,"lat":55.77246},{"lon":49.26842,"lat":55.75043}],"costing":"pedestrian","directions_options":{"units":"miles"},"id":"optimal_route_test"}'    "https://geo.rustore.ru/api/optimal_route?api_key=<YOUR_API_KEY>"

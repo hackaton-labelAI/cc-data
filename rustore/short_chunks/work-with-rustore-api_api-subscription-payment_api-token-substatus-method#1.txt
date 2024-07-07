@@ -1,0 +1,1 @@
+Для реальных подписок:GEThttps://public-api.rustore.ru/public/subscription/{subscriptionToken}/stateДля тестовых подписок:GEThttps://public-api.rustore.ru/public/sandbox/subscription/{subscriptionToken}/stateДля работы с тестовыми платежами и подписками вам понадобится новый ключ, при создании которого нужно указать методы для тестирования.Parsed Table Text

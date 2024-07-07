@@ -1,0 +1,18 @@
+Соберите плагин и установите его в свой проект:Скопируйте проекты плагина и приложения-примера из официального репозитория RuStore на GitFlic.
+
+
+Откройте в вашей IDE проект Android из папки extension_libraries.
+
+
+Выполните сборку проекта командой gradle assemble.
+При успешном выполнении сборки в папках remoteconfig_example / extension_rustore_remoteconfig / lib / android и remoteconfig_example / extension_rustore_core / lib / android будут созданы файлы:
+
+RuStoreDefoldRemoteConfig.jar;
+RuStoreDefoldCore.jar.
+
+
+
+Скопируйте папки remoteconfig_example / extension_rustore_remoteconfig, remoteconfig_example / extension_rustore_core, remoteconfig_example / extension_rustore_application в корень вашего проекта.
+
+
+В файле манифеста вашего проекта замените класс android.support.multidex.MultiDexApplication на ru.rustore.defold.remoteconfig.DefoldRemoteConfigApplication.Модификация манифеста<application        {{#has-icons?}}        android:icon="@drawable/icon"        {{/has-icons?}}        android:label="{{project.title}}" android:hasCode="true"        android:name="ru.rustore.defold.remoteconfig.DefoldRemoteConfigApplication"        android:enableOnBackInvokedCallback="true"        android:debuggable="{{android.debuggable}}"></application>

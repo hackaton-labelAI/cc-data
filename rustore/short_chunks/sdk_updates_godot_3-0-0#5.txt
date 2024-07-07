@@ -1,0 +1,1 @@
+Перед вызовом методов библиотеки необходимо создать менеджер обновлений.Создание синглтона RuStoreGodotAppUpdateManagervar _appUpdate_client: RuStoreGodotAppUpdateManager = nullfunc _ready():    _appUpdate_client = RuStoreGodotAppUpdateManager.get_instance();

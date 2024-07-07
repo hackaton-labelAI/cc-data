@@ -1,0 +1,1 @@
+curl --location --request POST 'https://public-api.rustore.ru/public/v1/application/com.example.pblsh_v2/version/704372/publish' \--header 'accept: application/json' \--header 'Public-Token: {YOURtoken}'

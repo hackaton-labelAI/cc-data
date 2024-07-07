@@ -1,0 +1,1 @@
+curl --location --request POST 'https://public-api.rustore.ru/public/v1/application/com.package.example/version/123/apk?servicesType=Unknown&isMainApk=true' \--header 'Public-Token: {YOURtoken}' \--form 'file=@"/Users/User/Downloads/package.apk"'

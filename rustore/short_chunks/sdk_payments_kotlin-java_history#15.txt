@@ -1,0 +1,3 @@
+Переход от синглтона на создание инстанса: RuStoreBillingClient.init() заменен на RuStoreBillingClientFactory.create().
+Методы работы с синглтоном (init, products, purchases, getSingleton) помечены как deprecated и будут удалены в следующих версиях.
+Метод checkPurchasesAvailability() стал статичным — вы можете проверить доступность платежей без создания экземпляра RuStoreBillingClient.

@@ -1,0 +1,275 @@
+Добавление информации к событиям в Tracer SDK - описание HasTracerSystemInfo | Документация RuStore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Перейти к основному содержимому
+Документация пользователей
+Документация разработчиков
+RuStore SDK
+RuStore API
+Сценарии использования
+Русский
+Русский
+English
+Начало работы
+Аккаунт разработчика
+Публикация и проверка приложений
+ Монетизация
+Реклама и продвижение
+Инструменты
+RuStore Remote Config
+Tracer
+Android
+Начало работы
+Модули Tracer
+Дополнительные возможности
+Добавление информации к событиям
+Собственное логирование Tracer
+Аналитика MyTracker
+SDK
+Статистика
+Авторизация VK ID
+Проверка подписи APK
+Вопросы и ответы
+Инструменты
+Tracer
+Android
+Дополнительные возможности
+Добавление информации к событиям
+Содержание этой страницы
+Добавление информации к событиям в Tracer SDK - описание HasTracerSystemInfo
+
+
+Описание 
+HasTracerSystemInfo
+​
+
+
+Самую важную информацию о сбое предоставляет Tracer SDK, и вам не надо об этом беспокоиться:
+
+
+
+
+date
+ — дата и время наступления события;
+
+
+board
+ — 
+Build.BOARD
+;
+
+
+brand
+ — 
+Build.BRAND
+;
+
+
+cpuABI
+ — 
+Build.SUPPORTED_ABIS
+;
+
+
+device
+ — 
+Build.DEVICE
+;
+
+
+display
+ — 
+Build.DISPLAY
+;
+
+
+manufacturer
+ — 
+Build.MANUFACTURER
+;
+
+
+model
+ — 
+Build.MODEL
+;
+
+
+osVersionSdkInt
+ — 
+Build.VERSION.SDK_INT
+;
+
+
+osVersionRelease
+ — 
+Build.VERSION.RELEASE
+;
+
+
+cpuCount
+ — 
+Runtime.getRuntime().availableProcessors()
+;
+
+
+operatorName
+ — имя оператора (если доступно).
+
+
+
+
+Добавить дополнительную информации к сбою можно в реализации 
+HasTracerSystemInfo
+ в своем приложении (см. ниже).
+
+
+class
+ 
+MyApplication
+ 
+:
+ 
+Application
+(
+)
+,
+ 
+HasTracerSystemInfo
+ 
+{
+    override val tracerSystemInfo
+:
+ 
+Map
+<
+String
+,
+ 
+String
+>
+        
+get
+(
+)
+ 
+=
+ mapOf 
+{
+            
+"foo"
+ to  
+"bar"
+ 
+,
+        
+}
+}
+
+
+Полезным примером такой информации может быть 
+userId
+, 
+build flavor
+ или 
+vendor
+, если сборка предназначена для предустановки.
+
+
+HasTracerSystemInfo.tracerSystemInfo
+ запрашивается каждый раз при наступлении события 
+CRASH
+ и 
+NON-FATAL
+. Также он будет вызван 1 раз на старте приложения на случай наступления 
+ANR
+.
+
+
+Описание 
+TracerCrashReport.log
+​
+
+
+К событию также прилагаются логи, предшествующие его наступлению. Вы можете добавить логи воспользовавшись методом 
+TracerCrasgReport.log
+.
+
+
+// при наступлении какого-то события
+TracerCrashReport
+.
+log
+(
+ 
+"button 100500 clicked"
+ 
+)
+// спустя  100500 строчек
+TracerCrashReport
+.
+report
+(
+NoSuchElementException
+(
+ 
+"Nothing here, see logs"
+ 
+)
+)
+// во вкладке logs этого non-fatal вы увидите строчку event button  100500 clicked |
+
+
+предупреждение
+Логи накапливаются не бесконечно. На данный момент они собираются в циклический буфер размером 64 Кбайт.
+Предыдущая страница
+Дополнительные возможности
+Следующая страница
+Собственное логирование Tracer
+Описание 
+HasTracerSystemInfo
+Описание 
+TracerCrashReport.log
+
+
+© VK, 2024
+
+
+
+
+Пользовательское соглашение
+
+
+Конфиденциальность

@@ -1,0 +1,1 @@
+После инициализации библиотеки вы можете использовать метод SubscribeToTopic(your_topic_name) для подписки на топик.RuStorePushClient.Instance.SubscribeToTopic(    topicName: "your_topic_name" ,    onFailure: (error) => {        // Process error    },    onSuccess: () => {        // Process success    });

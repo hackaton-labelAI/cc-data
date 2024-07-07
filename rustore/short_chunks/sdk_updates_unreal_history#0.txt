@@ -1,0 +1,7 @@
+Версия плагина 3.0.0Версия sdk appupdate 3.+.
+Обновлены методы установки обновления.Версия плагина 2.0.0Версия sdk appupdate 2.+.
+В репозитрий добавлен исходный код *.aar пакетов плагинов.Версия плагина 1.0.1Версия sdk appupdate 1.0.1.Версия плагина 1.0.0Версия sdk appupdate 1.0.0.
+Добавлены асинхронные варианты blueprint-методов вместо подписок на события.
+Добавлены коды ошибок в перечисление EURuStoreInstallErrorCode.
+Добавлены коды состояний в перечисление EURuStoreUpdateFlowResult.
+RuStoreAppUpdate_UPL_Android.xml больше не добавляет атрибут android:exported к GameActivity и SplashActivity.

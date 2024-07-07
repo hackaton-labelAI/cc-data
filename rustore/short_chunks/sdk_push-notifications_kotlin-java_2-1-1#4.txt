@@ -1,0 +1,1 @@
+build.gradledependencies {    implementation("ru.rustore.sdk:pushclient:2.1.1")}

@@ -1,0 +1,1 @@
+Объект Point или массив из двух чисел, представляющих координаты экрана x и y в пикселях.src/ui/map.jsСм. пример ниже.var p1 = new mmrgl.Point(-77, 38);  // a PointLike which is a Pointvar p2 = [-77, 38];  // a PointLike which is an array of two numbers

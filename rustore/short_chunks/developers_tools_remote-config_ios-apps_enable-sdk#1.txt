@@ -1,0 +1,1 @@
+let configuration = RemoteConfigConfiguration(    updateBehaviour: .actual)let client = RemoteConfigClient(appID: "ваш_app_id", configuration: configuration)let remoteConfig = await client.remoteConfig()Не запускает никаких обновлений в фоне.При вызове await client.remoteConfig() всегда отправляет запрос на сервер, чтобы получить актуальные значения.

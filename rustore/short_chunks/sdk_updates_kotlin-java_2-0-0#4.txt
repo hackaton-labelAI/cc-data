@@ -1,0 +1,7 @@
+KotlinJavaПодключите репозиторий.
+repositories {    maven {        url = uri("https://artifactory-external.vkpartner.ru/artifactory/maven")    }}
+Добавьте следующий код в свой конфигурационный файл для подключения следующие зависимости.
+build.gradledependencies {    implementation("ru.rustore.sdk:appupdate:2.0.0")}Подключите репозиторий.
+repositories {    maven {        url "https://artifactory-external.vkpartner.ru/artifactory/maven"    }}
+Добавьте следующий код в свой конфигурационный файл для подключения следующие зависимости.
+build.gradledependencies {    implementation 'ru.rustore.sdk:appupdate:2.0.0'}

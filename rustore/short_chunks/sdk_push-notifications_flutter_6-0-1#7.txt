@@ -1,0 +1,1 @@
+После инициализации библиотеки вы можете использовать метод RuStorePushClient.unsubscribeFromTopic(your_topic_name) для отписки от топика..RustorePushClient.unsubscribeFromTopic("topicName").then((value) {      //Proccess success    }, onError: (err) {      //Process error    });

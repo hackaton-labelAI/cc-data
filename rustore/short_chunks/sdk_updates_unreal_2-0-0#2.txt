@@ -1,0 +1,2 @@
+Если вам нужно проверить факт инициализации библиотеки, используйте метод GetIsInitialized. Метод возвращает значение типа bool:true — если библиотека инициализирована;
+false — если Init еще не был вызван.bool bIsInitialized = URuStoreAppUpdateManager::Instance()->GetIsInitialized();Parsed Image Text

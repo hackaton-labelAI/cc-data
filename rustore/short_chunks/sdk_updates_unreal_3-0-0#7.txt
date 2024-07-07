@@ -1,0 +1,1 @@
+Вызов метода DisposeURuStoreAppUpdateManager::Instance()->Dispose();Parsed Image Text

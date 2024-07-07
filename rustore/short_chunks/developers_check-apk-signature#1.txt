@@ -1,0 +1,1 @@
+gradle signingreportРезультат выполнения команды:Parsed Image TextОтпечаток подписи указан в строке SHA-256.

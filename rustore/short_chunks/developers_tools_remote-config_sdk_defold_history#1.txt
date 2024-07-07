@@ -1,0 +1,1 @@
+Версия SDK remoteconfig 1.1.1.

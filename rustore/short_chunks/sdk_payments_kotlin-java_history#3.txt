@@ -1,0 +1,2 @@
+Добавлена оплата по номеру телефона в purchaseProduct().
+В инициализации параметр externalPaymentLogger был заменен на externalPayemtnLoggerFactory — это фабрика, в которой необходимо создать реализацию ExternalPaymentLogger.

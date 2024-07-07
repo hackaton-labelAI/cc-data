@@ -1,0 +1,10 @@
+Для подключения выполните следующие шаги.Скопируйте проекты плагина из официального репозитория RuStore на GitFlic.
+Откройте в вашей IDE проект Android из папки extension_libraries.
+Выполните сборку проекта командой gradle assemble.
+При успешном выполнении сборки в папках appupdate_example/extension_rustore_appupdate/lib/android и appupdate_example/extension_rustore_core/lib/android будут созданы файлы:
+
+RuStoreDefoldAppUpdate.jar
+RuStoreDefoldCore.jar
+
+
+Скопируйте папки appupdate_example/extension_rustore_appupdate и appupdate_example / extension_rustore_core в корень вашего проекта.

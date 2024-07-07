@@ -1,0 +1,6 @@
+Обновлены библиотеки sdk: core и analytics до 1.0.0.
+pushclient разбит на несколько модулей, которые подключаются транзитивно:
+
+ru.rustore.sdk:push-common
+ru.rustore.sdk:push-core
+ru.rustore.sdk:push-core-network

@@ -1,0 +1,4 @@
+В вашем Application.kt.class MyApplication : Application(), HasTracerConfiguration {    override val tracerConfiguration: List<TracerConfiguration>        get() = listOf(            SamplingProfilerConfiguration.build {                // ваши опции            },        )}Ниже представлены опции SamplingProfilerConfiguration.Builder.setEnabled — включает/выключает профилирование. По умолчанию включён.Устаревшие или опасные опции SamplingProfilerConfiguration.Builder.setBufferSizeMb — смотрите описание android.os.Debug.startMethodTracingSampling;
+setSamplingIntervalUs — смотрите описание android.os.Debug.startMethodTracingSampling. По умолчанию 5000.
+setDurationMs — время работы профайлера в миллисекундах.
+addCondition — добавляет Condition для начала профилирования.

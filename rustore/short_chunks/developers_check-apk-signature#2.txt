@@ -1,0 +1,1 @@
+apksigner verify --print-certs -v example.apkexample.apk — ваше приложение.Результат выполнения команды Mac OS:Parsed Image TextЗначение Signer #1 certificate SHA-256 digest — это нужный отпечаток подписи.

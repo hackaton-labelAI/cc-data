@@ -1,0 +1,5 @@
+Для подключения выполните следующие шаги.Скопируйте содержимое папки Plugins из официального репозитория RuStore на gitflic в папку Plugins внутри своего проекта.
+Перезапустите Unreal Engine.
+В списке плагинов (Edit > Plugins > Project > Mobile) отметьте плагины RuStoreAppUpdate и RuStoreCore.
+Подключите модули модули RuStoreCore и RuStoreAppUpdate в файле YourProject.Build.cs в списке PublicDependencyModuleNames.
+В настройках проекта (Edit > Project Settings > Android) установите параметр Minimum SDK Version на уровень не ниже 24 и параметр Target SDK Version не ниже 31.

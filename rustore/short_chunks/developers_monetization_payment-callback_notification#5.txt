@@ -1,0 +1,1 @@
+{  "app_id": 12345,  "notification_type": "INVOICE_STATUS",  "data": "{\"change_status_time\":\"1970-01-01T00:00:00Z\",\"product_code\":\"test_test\",\"status_new\":\"paid\",\"status_old\":\"executed\",\"purchase_token\":\"111.123\",\"invoice_id\":\"123\",\"order_id\":\"123e4567e89b-12d3-a456-4266-55440000\",\"purchase_id\":\"123e4567e89b-12d3-a456-4266-55440000\"}"}

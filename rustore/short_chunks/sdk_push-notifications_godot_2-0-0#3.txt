@@ -1,0 +1,10 @@
+предупреждениеБиблиотеки плагинов в репозитории собраны для Godot Engine 4.2.1. Если вы используете другую версию Godot Engine, выполните шаги раздела Пересборка плагина.Скопируйте проекты плагина и приложения-примера из официального репозитория RuStore на GitFlic.
+
+
+Скопируйте содержимое папки godot_example / android / plugins в папку your_project / android / plugins.
+
+
+Скопируйте с заменой содержимое папки godot_example / android / build_example в папку godot_example / android / build.
+
+
+В пресете сборки Android в списке «Плагины» отметьте «Ru Store Godot Push» и «Ru Store Godot Core».

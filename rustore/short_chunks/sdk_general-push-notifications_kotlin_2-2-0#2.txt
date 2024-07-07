@@ -1,0 +1,3 @@
+Для обработки события onNewToken добавьте callback OnNewTokenListener в App-классе после инициализации RuStoreUniversalPushClient.
+При событии onNewToken вызывается callback с параметрами:providerType — провайдер push-уведомлений, который вызвал событие.
+token — новый push-токен.RuStoreUniversalPushClient.setOnNewTokenListener {  providerType, token ->     // process event}

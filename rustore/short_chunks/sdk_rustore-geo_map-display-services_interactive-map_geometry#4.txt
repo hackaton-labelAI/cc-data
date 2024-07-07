@@ -1,0 +1,3 @@
+x:number — позиция X;
+y:number — позиция Y;
+z:number — позиция Z.

@@ -1,0 +1,1 @@
+https://geo.rustore.ru/api/places?api_key=<YOUR_API_KEY>&q=prime&fields=name,place_details,address,address_details,pin,bbox,geometry,type&location=55.7967432,37.5373542&limit=1 |

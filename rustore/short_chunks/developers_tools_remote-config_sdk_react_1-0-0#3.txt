@@ -1,0 +1,1 @@
+Для подключения пакета к проекту выполните следующую команду.// HTTPSnpm install git+https://git@gitflic.ru/project/rustore/rustore-react-native-remoteconfig.git// SSHnpm install git+ssh://git@gitflic.ru/project/rustore/rustore-react-native-remoteconfig.git

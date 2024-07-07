@@ -1,0 +1,1 @@
+POST  'https://vkpns-topics.rustore.ru/v1/projects/{project_id}/topics/{topic}/batch_subscribe' HTTP /2Content-Type: application /jsonAuthorization: Bearer $ss_token{    "push_tokens" : [        "kHrfTow3AjqdgUeCJLwbIHd7c0......",        "9mbJVS0-2e0cCcIx7X5nxMIgp8......"    ]}

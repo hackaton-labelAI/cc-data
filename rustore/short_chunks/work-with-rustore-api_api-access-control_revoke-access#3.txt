@@ -1,0 +1,1 @@
+curl --location --request DELETE 'https://public-api.rustore.ru/public/v1/application/com.package.example/developer/1111111111/role/DEV' \--header 'Public-Token: {YOURtoken}'

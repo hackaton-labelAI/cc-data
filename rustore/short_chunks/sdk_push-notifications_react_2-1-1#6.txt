@@ -1,0 +1,1 @@
+Вы можете использовать метод RustorePushClient.unsubscribeFromTopic(your_topic_name) для отписки от топика.Пример реализации RustorePushClient.unsubscribeFromTopic(your_topic_name)try {  RustorePushClient.unsubscribeFromTopic("your_topic_name");} catch (err) {  console.log(JSON.stringify(err));}

@@ -1,0 +1,1 @@
+https://geo.rustore.ru/api/timezone?api_key=<YOUR_API_KEY>&q=55.479205,37.32733

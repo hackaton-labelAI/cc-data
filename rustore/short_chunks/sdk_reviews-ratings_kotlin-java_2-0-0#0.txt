@@ -1,0 +1,11 @@
+KotlinJavaДля запуска формы запроса оценки и отзыва о приложении у пользователя вызовите метод launchReviewFlow(reviewInfo), используя ранее полученный ReviewInfo.
+manager.launchReviewFlow(reviewInfo).addOnCompleteListener(object: OnCompleteListener<Unit> {    override fun onFailure(throwable: Throwable) {        // Review flow has finished, continue your app flow.    }    override fun onSuccess(result: Unit) {        // Review flow has finished, continue your app flow.    }})
+Дождитесь уведомления о завершении формы пользователем в onSuccess или onFailure, чтобы продолжить работу приложения.
+После завершения формы оценки вне зависимости от результата (onSuccess или onFailure) не рекомендуется отображать какие-либо дополнительные формы, связанные с оценкой и отзывом.
+Частый вызов launchReviewFlow не повлечёт за собой отображения формы оценки для пользователя, допустимое отображение регулируется на стороне RuStore.
+к сведениюСписок возможных ошибокДля запуска формы запроса оценки и отзыва о приложении у пользователя вызовите метод launchReviewFlow(reviewInfo), используя ранее полученный ReviewInfo.
+launchReviewFlow(reviewInfo)manager.launchReviewFlow(reviewInfo)    .addOnSuccessListener(result -> {        // Review flow has finished, continue your app flow.    })    .addOnFailureListener(throwable -> {        // Review flow has finished, continue your app flow.    });
+Дождитесь уведомления о завершении формы пользователем в onSuccess или onFailure, чтобы продолжить работу приложения.
+После завершения формы оценки вне зависимости от результата (onSuccess или onFailure) не рекомендуется отображать какие-либо дополнительные формы, связанные с оценкой и отзывом.
+Частый вызов launchReviewFlow не повлечёт за собой отображения формы оценки для пользователя, допустимое отображение регулируется на стороне RuStore.
+к сведениюСписок возможных ошибок

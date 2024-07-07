@@ -1,0 +1,1 @@
+POST-запрос с помощью утилиты curlcurl -X POST   -H "Content-type: application/json"   -H "Accept: application/json"   -d '{"sources":[{"lat":55.796932,"lon":37.537849},{"lat":55.801551,"lon":37.531575}],"targets":[{"lat":55.790412,"lon":37.534313},{"lat":55.788644,"lon":37.536507}],"costing":"pedestrian","id":"DM_Test"}'   "https://geo.rustore.ru/api/dm?api_key=<YOUR_API_KEY>"

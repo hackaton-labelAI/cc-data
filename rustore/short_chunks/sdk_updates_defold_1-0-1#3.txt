@@ -1,0 +1,1 @@
+Если необходимости в слушателе больше нет, воспользуйтесь методом удаления слушателя unregister_listener.Вызов метода unregister_listenerrustoreappupdate.unregister_listener()

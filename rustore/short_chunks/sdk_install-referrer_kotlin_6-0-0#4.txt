@@ -1,0 +1,1 @@
+Для работы с referrer создайте InstallReferrerClient при помощи конструктора класса:Инициализацияval client = InstallReferrerClient(context)

@@ -1,0 +1,3 @@
+KotlinJavaДля работы с оценками необходимо создать RuStoreReviewManager с помощью RuStoreReviewManagerFactory.
+val manager = RuStoreReviewManagerFactory.create(context)Для работы с оценками необходимо создать RuStoreReviewManager с помощью RuStoreReviewManagerFactory.
+RuStoreReviewManager manager = RuStoreReviewManagerFactory.INSTANCE.create(context);

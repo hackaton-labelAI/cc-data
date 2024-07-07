@@ -1,0 +1,1 @@
+Parsed Table TextСм. пример ниже.| var scale = new mmrgl.ScaleControl({    maxWidth: 80,    unit: 'imperial'});map.addControl(scale);scale.setUnit( 'metric' );

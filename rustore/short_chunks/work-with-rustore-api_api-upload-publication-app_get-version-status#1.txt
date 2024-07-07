@@ -1,0 +1,1 @@
+GEThttps://public-api.rustore.ru/public/v1/application/{packageName}/version?ids=704095&page=0&size=2Parsed Table Text

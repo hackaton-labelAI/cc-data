@@ -1,0 +1,1 @@
+build.gradledependencies {    implementation("ru.rustore.sdk:installreferrer:6.0.0")}

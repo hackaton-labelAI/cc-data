@@ -1,0 +1,3 @@
+Устанавливает плагин для поддержки RTL. Необходимо для поддержки арабского и еврейского языков.src/index.jsПараметры:pluginURL:string — путь до RTL плагина;
+callback:function(error:object) — функция вызывается если есть ошибка;
+lazy:boolean — ленивая подгрузка.Пример (см. ниже).mmrgl.setRTLTextPlugin(pluginUrl, function (error) {    if (error) {        console.log('something was wrong', error);    }  else {        console.log('rtl-text-plugin loaded successfully');    }}, true);

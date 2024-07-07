@@ -1,0 +1,1 @@
+Метод launchReviewFlow(activity, reviewInfo) помечен как deprecated. Используйте launchReviewFlow(reviewInfo).

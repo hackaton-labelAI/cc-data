@@ -1,0 +1,1 @@
+Логирование включено по умолчанию внутри flutter sdk. Логи вы можете смотреть по тегу RuStoreFlutterBillingPlugin.

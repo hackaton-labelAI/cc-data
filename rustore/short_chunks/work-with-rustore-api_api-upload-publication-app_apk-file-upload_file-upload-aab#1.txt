@@ -1,0 +1,1 @@
+POST/public-api.rustore.ru/public/v1/application/{packageName}/version/{versionId}/aabParsed Table Text

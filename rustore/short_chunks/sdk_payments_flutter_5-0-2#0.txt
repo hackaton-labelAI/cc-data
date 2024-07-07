@@ -1,0 +1,7 @@
+Для подтверждения покупки используйте метод RustoreBillingClient.confirm(id). Запрос на подтверждение покупки должен сопровождаться выдачей товара. После вызова подтверждения покупка перейдёт в статус CONSUMED.RustoreBillingClient.confirm(id).then((response) {      print( "confirm success: $response" );    }, onError: (err) {      print( "confirm err: $err" );});id — идентификатор покупки.Метод возвращает ConfirmPurchaseResponse (см. ниже).class ConfirmPurchaseResponse {  int code;  String? errorMessage;  String? errorDescription;  String? traceId;  List<DigitalShopGeneralError?> errors;}code — код ответа.
+errorMessage — сообщение об ошибке для пользователя.
+errorDescription — расшифровка сообщения об ошибке.
+traceId — идентификатор ошибки.
+errors — список ошибок для запрошенных продуктов.Структура ошибки DigitalShopGeneralError (см. ниже).class DigitalShopGeneralError {  String? name;  int ? code;  String? description;}name – имя ошибки.
+code — код ошибки.
+description – описание ошибки.

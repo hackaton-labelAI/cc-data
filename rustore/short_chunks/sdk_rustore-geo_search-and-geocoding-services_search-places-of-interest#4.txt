@@ -1,0 +1,1 @@
+Ответ предоставляется только в JSON-формате и содержит информацию найденную по запросу.JSON-форматParsed Table TextОписание полей address_detailsParsed Table TextОписание полей geometryParsed Table Text

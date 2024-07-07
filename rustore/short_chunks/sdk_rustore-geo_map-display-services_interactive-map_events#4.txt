@@ -1,0 +1,3 @@
+События связанные с boxzoom, используемых BoxZoomHandler.src/ui/events.jsПараметрыoriginalEvent:MouseEvent— DOM-событие, вызвавшее событие boxzoom. Может быть MouseEvent или KeyboardEvent.
+type:string — тип события boxzoom. Может быть: boxzoomstart, boxzoomend или boxzoomcancel.
+target:Map — экземпляр карты, вызвавший событие.

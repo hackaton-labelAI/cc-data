@@ -1,0 +1,2 @@
+Добавлен флаг RuStoreBillingClientConfig.enableLogs, позволяющий включить ведение журнала событий.
+Исправлена ошибка инициализации CallbackHandler.

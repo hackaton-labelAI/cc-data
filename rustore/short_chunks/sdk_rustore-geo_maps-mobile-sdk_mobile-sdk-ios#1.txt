@@ -1,0 +1,1 @@
+Для обработки ошибок используется метод mapView(_:, didFailWithError:) делегата MapViewDelegate.extension MyController: MapViewDelegate {    func mapView(_mapView: MapView, didFailWithError error: Error) {        print("Did fail with error: (error.localizedDescription)")    }}

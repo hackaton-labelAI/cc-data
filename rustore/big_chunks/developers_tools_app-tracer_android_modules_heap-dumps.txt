@@ -1,0 +1,203 @@
+Heap Dumps - эффективный мониторинг и управление с Tracer SDK | Документация RuStore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Перейти к основному содержимому
+Документация пользователей
+Документация разработчиков
+RuStore SDK
+RuStore API
+Сценарии использования
+Русский
+Русский
+English
+Начало работы
+Аккаунт разработчика
+Публикация и проверка приложений
+ Монетизация
+Реклама и продвижение
+Инструменты
+RuStore Remote Config
+Tracer
+Android
+Начало работы
+Модули Tracer
+Crash и ANR
+Heap Dumps
+Disk Usage
+Systrace Profiler
+Sampling Profiler
+Дополнительные возможности
+Аналитика MyTracker
+SDK
+Статистика
+Авторизация VK ID
+Проверка подписи APK
+Вопросы и ответы
+Инструменты
+Tracer
+Android
+Модули Tracer
+Heap Dumps
+Содержание этой страницы
+Heap Dumps: эффективный мониторинг и управление с Tracer SDK
+
+
+Подключение зависимостей к проекту
+​
+
+
+В вашем 
+<project>/<app-m,odule>/build.gradle
+.
+
+
+dependencies 
+{
+    implementation 
+"ru.ok.tracer:tracer-heap-dumps:0.2.7"
+}
+
+
+Более подробное описание зависимостей на странице «
+Быстрый старт
+».
+
+
+Описание 
+HeapDumpConfiguration
+​
+
+
+В вашем 
+Application.kt
+.
+
+
+class
+ 
+MyApplication
+ 
+:
+ 
+Application
+(
+)
+,
+ 
+HasTracerConfiguration
+ 
+{
+    override val tracerConfiguration
+:
+ 
+List
+<
+TracerConfiguration
+>
+        
+get
+(
+)
+ 
+=
+ 
+listOf
+(
+            
+HeapDumpConfiguration
+.
+build
+ 
+{
+                
+// ваши опции
+            
+}
+,
+        
+)
+}
+
+
+Ниже представлены 
+HeapDumpConfiguration.Builder
+.
+
+
+
+
+setEnabled
+ — включает/выключает сбор хипдампов при OOM. По умолчанию включён.
+
+
+
+
+Ниже представлено устаревшие или опасные опции 
+HeapDumpConfiguration.Builder
+.
+
+
+
+
+setProbability
+ — устарела и ничего не делает, будет удалена в версии 0.3.x.
+
+
+setInterestingSize
+ — устарела и ничего не делает, будет удалена в версии 0.3.x
+
+
+
+
+к сведению
+Хипдампы отправляются ночью, когда пользователь не пользуется устройством.
+Предыдущая страница
+Crash и ANR
+Следующая страница
+Disk Usage
+Подключение зависимостей к проекту
+Описание 
+HeapDumpConfiguration
+
+
+© VK, 2024
+
+
+
+
+Пользовательское соглашение
+
+
+Конфиденциальность

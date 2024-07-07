@@ -1,0 +1,2 @@
+Версия SDK appUpdate 2.+.
+Поддержка Godot 4.2+.

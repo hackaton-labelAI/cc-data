@@ -1,0 +1,1 @@
+Parsed Table TextСм. пример ниже.var nullIsland = new mmrgl.MercatorCoordinate(0.5, 0.5, 0);

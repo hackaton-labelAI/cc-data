@@ -1,0 +1,1 @@
+Для проверки того, что приложение RuStore установлено на устройстве пользователя, используйте метод RustorePushClient.available().RustorePushClient.available().then((value) {      print("available success: ${value}");}, onError: (err) {      print("available error: ${err}");});

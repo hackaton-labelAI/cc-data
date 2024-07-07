@@ -1,0 +1,2 @@
+Для подключения выполните следующие шаги.Скопируйте проекты плагина из официального репозитория RuStore на GitFlic.
+Скопируйте папки appupdate_example/extension_rustore_appupdate и appupdate_example / extension_rustore_core в корень вашего проекта.

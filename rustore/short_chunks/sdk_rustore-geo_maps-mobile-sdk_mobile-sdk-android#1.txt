@@ -1,0 +1,1 @@
+mapView = findViewById(R.id.mapView)mapView.getMapAsync { map ->  // тот самый объект Map    ...}Для корректной работы контролов CurrentLocationView и CompassView необходимо передать в объект Map реализацию интерфейса LocationSource.

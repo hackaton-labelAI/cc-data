@@ -1,0 +1,3 @@
+Для обработки ошибок добавьте callback OnPushClientErrorListener в App-классе после инициализации RuStoreUniversalPushClient.
+При появлении ошибок вызывается callback с параметрами:providerType — провайдер push-уведомлений, который вызвал событие.
+errors — список ошибок.RuStoreUniversalPushClient.setOnPushClientErrorListener { providerType, error ->     // process error}

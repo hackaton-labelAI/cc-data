@@ -1,0 +1,2 @@
+Иногда старый токен становится некорректным, он может выписываться заново.
+Чтобы узнать о том, что выписался новый токен, используйте callback RustorePushClient().RustorePushClient.onNewToken((value) {      print("on new token success: ${value}");}, error: (err) {      print("on new token err: ${err}");});

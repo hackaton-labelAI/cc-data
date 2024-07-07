@@ -1,0 +1,2 @@
+Для обработки события onDeletedMessages добавьте callback OnDeletedMessagesListener в App-классе после инициализации RuStoreUniversalPushClient.
+При событии onDeletedMessages вызывается callback с параметром providerType — провайдер push-уведомлений, который вызвал событие.RuStoreUniversalPushClient.setOnDeletedMessagesListener { providerType ->    // process event}

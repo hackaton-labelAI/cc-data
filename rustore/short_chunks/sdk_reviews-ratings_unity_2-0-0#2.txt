@@ -1,0 +1,1 @@
+Для работы с оценками необходимо создать RuStoreReviewManager с помощью RuStoreReviewManagerFactory.RuStoreReviewManager.Instance.Init();

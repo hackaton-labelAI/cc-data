@@ -1,0 +1,6 @@
+Класс RemoteConfig имеет методы получения данных и приведения его к определенным типам.getBoolean(key: String): Boolean
+getInt(key: String): Int
+getLong(key: String): Long
+getString(key: String): String
+getDouble(key: String): Double
+getFloat(key: String): FloatМетоды могут вернуть ошибку RemoteConfigCastException, если тип данных не соответствует выбранному методу или отсутствует значение по передаваемому ключу.

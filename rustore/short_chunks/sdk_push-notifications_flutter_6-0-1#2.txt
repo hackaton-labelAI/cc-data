@@ -1,0 +1,1 @@
+Для подключения пакета к проекту выполните команду:flutter pub add flutter_rustore_pushОна добавит строчку в файл pubspec.yaml:pubspec.yamldependencies:  flutter_rustore_push: ^6.0.1

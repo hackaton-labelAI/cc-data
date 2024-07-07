@@ -1,0 +1,4 @@
+Исправлена некорректная работа метода checkPushAvailability.
+Метод checkPushAvailability(context: Context) помечен как deprecated и в будущем будет удален. Вместо него используйте версию без аргументов checkPushAvailability().
+В метод RuStorePushClient.init добавлен параметр analyticsCallback: AnalyticsCallback?. Параметр нужен для работы будущей функции Рассылка по таргетингам.
+Другие багфиксы.

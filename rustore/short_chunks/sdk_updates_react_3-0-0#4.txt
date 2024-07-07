@@ -1,0 +1,1 @@
+Для подключения пакета к проекту выполните следующую команду.// HTTPSnpm install git+https://git@gitflic.ru/project/rustore/react-native-rustore-update-sdk.git// SSHnpm install git+ssh://git@gitflic.ru/project/rustore/react-native-rustore-update-sdk.git

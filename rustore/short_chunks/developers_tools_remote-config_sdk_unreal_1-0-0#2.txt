@@ -1,0 +1,1 @@
+Для доступа к методам RemoteConfigClientEventListener из C++ и Blueprint выполните инициализацию URuStoreConfigRequestParameterProvider, используя метод Init.URuStoreRemoteConfigClientEventListener::Instance()->Init();Все операции с объектом URuStoreRemoteConfigClientEventListener также доступны из Blueprints. Ниже преставлен пример инициализации.Parsed Image Text

@@ -1,0 +1,20 @@
+Подписка на событие rustore_on_state_updated выполняется единожды. Прослушивание процесса скачивания активируется с помощью метода register_listener.Запуск слушателяfunction init(self)	-- Инициализация rustoreappupdate	rustorecore.connect("rustore_on_state_updated", _on_state_updated) 	rustoreappupdate.register_listener()endfunction _on_state_updated(self, channel, value)	local data = json.decode(value)endОбратный вызов (callback) rustore_on_state_updated возвращает строку JSON (объект InstallState) с информацией о ходе процесса обновления. Объект содержит поля:installStatus — статус установки обновления, если пользователь уже устанавливает обновление в текущий момент времени:
+
+UNKNOWN (int == 0)  — по умолчанию.
+DOWNLOADED (int == 1) — скачано.
+DOWNLOADING (int == 2) — скачивается.
+FAILED (int == 3) — ошибка.
+PENDING (int == 5) — в ожидании.
+
+
+
+bytesDownloaded — количество загруженных байт.
+
+
+totalBytesToDownload — общее количество байт, которое необходимо скачать.
+
+
+packageName — имя пакета обновления.
+
+
+installErrorCode — код ошибки во время скачивания. Коды ошибок описаны в разделе Обработка ошибок.

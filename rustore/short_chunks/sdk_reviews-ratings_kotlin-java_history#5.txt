@@ -1,0 +1,1 @@
+Исправлена уязвимость Intent Redirection vulnerability не позволяющая опубликовать приложение в Google Play.

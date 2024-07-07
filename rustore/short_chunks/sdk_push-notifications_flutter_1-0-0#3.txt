@@ -1,0 +1,1 @@
+После инициализации библиотеки вы можете использовать метод RuStorePushClient.deleteToken(), чтобы удалить текущий push-токен пользователя.RustorePushClient.deleteToken().then(() {      print( "delete success:" );}, onError: (err) {      print( "delete error: ${err}" );})

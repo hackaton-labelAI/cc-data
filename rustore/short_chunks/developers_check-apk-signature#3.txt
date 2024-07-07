@@ -1,0 +1,1 @@
+keytool -printcert -jarfile example.apkexample.apk — ваше приложение.Результат выполнения команды Mac OS:Parsed Image TextОтпечаток подписи указан в строке SHA256.

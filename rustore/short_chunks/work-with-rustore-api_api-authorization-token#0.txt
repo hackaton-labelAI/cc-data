@@ -1,0 +1,1 @@
+В ответ вы получите тело для запроса POST /public/auth/ с параметрами companyId/keyId, timestamp и signature.подсказкаСформированный параметр параметра signature действует 1 минуту, так как напрямую зависит от timestamp.

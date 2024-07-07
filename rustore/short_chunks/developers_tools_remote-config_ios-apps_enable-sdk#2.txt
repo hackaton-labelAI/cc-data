@@ -1,0 +1,1 @@
+После получения remote config, есть возможность читать типизированные значения:let remoteConfig = await client.remoteConfig()remoteConfig.integer(forKey: "integer_value")remoteConfig.double(forKey: "double_value")remoteConfig.string(forKey: "string_value")remoteConfig.bool(forKey: "bool_value")remoteConfig.jsonObject(forKey: "json_object")

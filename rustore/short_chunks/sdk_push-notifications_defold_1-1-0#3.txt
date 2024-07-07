@@ -1,0 +1,1 @@
+Для удаления push-токенов используйте метод delete_token:Вызов метода delete_tokenruStorePush.delete_token(function (self, error)	if error then		print("Error deleting token: %s", error.error)	else		print("push token deleted")	endend)

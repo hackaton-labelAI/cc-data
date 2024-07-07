@@ -1,0 +1,1 @@
+Parsed Table TextHTTP status соответствует полю code.

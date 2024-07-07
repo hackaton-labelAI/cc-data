@@ -1,0 +1,1 @@
+После инициализации библиотеки вы можете использовать метод RuStorePushClient.subscribeToTopic(your_topic_name) для подписки на топик.RustorePushClient.subscribeToTopic("topicName").then((value) {      //Proccess success    }, onError: (err) {      //Process error    });

@@ -1,0 +1,4 @@
+Вызов метода completeUpdateSilentRustoreUpdateClient.completeUpdateSilent().catchError((err) {  print("completeUpdateSilent err ${err}");});Обновление без UI от RuStore:UI-диалог завершения обновления не будет показан.
+
+
+В случае успешного обновления приложение будет закрыто.

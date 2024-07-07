@@ -1,0 +1,4 @@
+Обновление с UI от RuStore:Parsed Image TextПользователю будет показан UI-диалог завершения обновления.
+
+
+В случае успешного обновления приложение будет перезапущено.Метод CompleteUpdate должен быть вызван с параметром FLEXIBLE:RuStoreAppUpdateManager.Instance.CompleteUpdate(    UpdateType.FLEXIBLE,    onFailure: (error) => {        // Handle error    });UpdateType — тип процедуры завершения обновления:FLEXIBLE — обновление и перезапуск приложения.

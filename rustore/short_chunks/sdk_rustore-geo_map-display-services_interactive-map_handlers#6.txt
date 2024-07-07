@@ -1,0 +1,1 @@
+DoubleClickZoomHandler позволяет пользователю масштабировать карту в определенной точке двойным нажатием левой кнопкой мыши или двойным тапом.src/ui/handler/shim/dblclick_zoom.jsМетодыParsed Table Text

@@ -1,0 +1,1 @@
+Для подписки на топик используйте метод topic_subscribe:Вызов метода topic_subscribelocal TOPIC_NAME = "defold"ruStorePush.topic_subscribe("defold", function (self, error)	if error then		print("Error to subscribe: %s", error.error)	else		print("subscribe to: defold")	endend)TOPIC_NAME — имя топика.

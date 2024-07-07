@@ -1,0 +1,3 @@
+KotlinJavaПеред вызовом методов библиотеки необходимо создать менеджер обновлений.
+val updateManager = RuStoreAppUpdateManagerFactory.create(context)Перед вызовом методов библиотеки необходимо создать менеджер обновлений.
+RuStoreAppUpdateManager ruStoreAppUpdateManager = RuStoreAppUpdateManagerFactory.INSTANCE.create(context);

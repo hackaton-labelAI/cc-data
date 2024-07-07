@@ -1,0 +1,1 @@
+MapViewConfig(    val apiKey: String, // уникальный ключ для предоставления доступа кработе с SDK)Установить его нужно следующим образом, как показано в примере.Пример установкиMapGlobalConfig.setMapGlobalConfig(            MapViewConfig(                apiKey = apiKey        ))

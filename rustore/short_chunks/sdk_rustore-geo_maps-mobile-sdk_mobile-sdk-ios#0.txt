@@ -1,0 +1,1 @@
+Карта может показывать пробки на дорогах, линии метро и уровни высот (изолинии). Для включения воспользуйтесь методом setLayoutVisible.mapView.setLayoutVisible(true, layout: .traffic)mapView.setLayoutVisible(true, layout: .isolines)mapView.setLayoutVisible(true, layout: .isolinesLabel)mapView.setLayoutVisible(true, layout: .subway)
